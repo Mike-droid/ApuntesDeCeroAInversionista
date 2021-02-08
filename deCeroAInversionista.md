@@ -109,3 +109,35 @@ Recursos adicionales:
 
 - [Cómo salir de deudas](https://omareducacionfinanciera.com/salir-de-deudas)
 - [Guía para consolidar deudas](https://omareducacionfinanciera.com/consolidar-deudas)
+
+## Capítulo 3: Fondo de emergencia
+
+### ¿Por qué es importante tener un fondo de emergencia?
+
+La idea es ***nunca*** tener que depender de préstamos o tarjetas de crédito en situaciones complicadas.
+
+Si uno empieza a depender demasiado de un crédito, este irá generando intereses que si no se pagan a tiempo, te dejarán en un ciclo interminable en el que nunca dejarás de pagar deudas. Vivir al día simplemente **no es una opción**.
+
+¿Qué pasa si pierdes tu empleo? Nadie es indispensable, en cualquier momento pueden suceder imprevistos. Puede que pase mucho tiempo hasta que vuelvas a conseguir una fuente de ingresos.
+
+### ¿Cuánto deberías tener ahorrado?
+
+Esto puede variar mucho dependiendo de tus ingresos y gastos necesarios para vivir, la regla general es tener por lo menos suficiente dinero guardado para poder cubrir tus gastos de 3 a 6 meses.
+
+### ¿En qué usar el fondo de emergencia?
+
+***Nunca lo uses para comprar algo que no necesitas***. Este fondo solamente deberá ser usado en casos de una emergencia real para poder cubrir un gasto que realmente debes pagar en ese momento.
+
+Siempre debes darle prioridad a las cosas que realmente puedan alterar drásticamente tu vida.
+
+Errores comunes al tratar de hacer un fondo de emergencia:
+
+- **Jamás** guardes tus ahorros en efectivo, no los guardes en una cuenta bancaria común y corriente. La razón por la que nunca debes hacer esto es por la inflación. Al tenerlo en estas formas, tu dinero irá perdiendo valor.
+
+### ¿Dónde guardar el dinero?
+
+Encuentra un instrumento financiero con alta liquidez que te dé un mayor rendimiento que la inflación.
+
+En México contamos con los CETES. Otra alternativa son las SOFIPOS.
+
+[Guía para armar tu fondo de emergencia](https://omareducacionfinanciera.com/fondo-de-emergencia)
