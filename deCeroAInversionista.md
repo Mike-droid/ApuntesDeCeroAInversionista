@@ -141,3 +141,27 @@ Encuentra un instrumento financiero con alta liquidez que te dé un mayor rendim
 En México contamos con los CETES. Otra alternativa son las SOFIPOS.
 
 [Guía para armar tu fondo de emergencia](https://omareducacionfinanciera.com/fondo-de-emergencia)
+
+## Capítulo 4: La inflación 🎈
+
+Es sencillo, si no inviertes tu dinero en algo que te dé un rendimiento anual mayor a la inflación, **realmente estarás perdiendo tu dinero**.
+
+No hay otra forma de decirlo, el dinero que tengas guardado ya sea en efectivo o en una cuenta bancaria que no te paga intereses es dinero que *estás perdiendo conforme pasa el tiempo*.
+
+### ¿Qué es la inflación?
+
+Es el aumento de los precios. Por ejemplo en México en el 2019, la inflación aumentó 3%. Esto quiere decir que lo que costaba $100MXN, en 1 año va a costar $103MXN y en 30 años va a costar $243MXN, esto es más del doble.
+
+Es por eso que tus ahorros van a valer menos, las cosas irán subiendo de valor y no te va a alcanzar para lo mismo.
+
+Retomemos la inflación en México del 3% en el 2019. Si esto se mantiene así, por cada $1000MXN guardados, vas a estar perdiendo $30MXN al año. Imagina tener $1,000,000MXN en el banco, estarías perdiendo $30,000MXN anuales.
+
+¿Qué hacer para que la inflación no se coma tu dinero? El secreto consiste en invertir en algo que te dé un rendimiento mayor a la inflación. Dependiendo del riesgo que estés dispuesto a asumir, cuentas con bastantes opciones.
+
+- Invertir en deuda gubernamental: Es de riesgo bajo y los rendimientos van a ser pequeños, pero usualmente suficientes para vencer la inflación. Como estás respaldado por el gobierno, tu dinero está respaldado por los impuestos que pagamos a menos que la economía se desplome. En México se llaman CETES.
+- Por medio de un fondo de inversión, un ETF o directamente comprando acciones en la bolsa de valores: Tienen un alto nivel de riesgo, pero las ganancias pueden ser elevadas si lo haces bien.
+- Comprar una propiedad: Para esto usualmente requieres grandes cantidades de dinero, si tienes una buena suma acumulada puedes comprar una propiedad y rentarla.
+
+Existen muchas estrategías para vencer la inflación. Dependiendo de tus objetivos, tolerencia al riesgo y necesidades, tomarás una opción (o varias). Ninguna es mejor que otra, todas son diferentes.
+
+[Video tutorial sobre la inflación](https://omareducacionfinanciera.com/vence-la-inflacion)
