@@ -193,3 +193,45 @@ Trata de tener metas para diferentes intervarlos de tiempo;
 - Largo plazo: mayores a 5 años
 
 [Videotutorial para elaborar plan financiero](https://omareducacionfinanciera.com/metas-financieras-2020/)
+
+## Capítulo 6: El interés compuesto
+
+> La fuerza más poderosa del mundo es el interés compuesto. - Albert Einstein
+
+El interés compuesto consiste en generar intereses sobre los intereses.
+
+El concepto es muy sencillo, al invertir tu dinero vas a recibir una ganancia, también conocida como *rendimiento*.
+
+Por ejemplo, inviertes $100 y en un año te regresan $110. Tuviste un rendimiento de $10 o del 10%. Ahora imagina que inviertes esos $110 y vuelves a ganar el 10%, entonces tendrías $121. En dos años ganaste $21, en el primero fueron $10 y en el segundo $11.
+
+Si dejas ese dinero trabajando 50 años con un 10% de rendimiento, tendrías $11,639.09, con solo $100 multiplicas tu dinero más de 117 veces si reinviertes año con año.
+
+### Juntando tu primer millón
+
+Muchas personas te dirán que para hacerte millonario solamente necesitas trabajar duro y ahorrar, esto es ***COMPLETAMENTE FALSO***.
+
+Si tú solo ahorraras $5 diarios,en 50 años solo tendrías $91,250 y en realidad tu dinero valdría mucho menos por la inflación, si asumimos una inflación de 2%, en 50 años en realidad es como si solo tuvieras $34,500 al día de hoy.
+
+Hay que tener en cuenta que debido a la inflación, el dinero pierde valor con el tiempo. Si no inviertes el dinero ahorrado estás perdiendo MUCHO DINERO. Simplemente con trabajo y ahorro nunca serás millonario.
+
+Una mejor estrategía es la siguiente (y es a largo plazo, no es cosa de 1 año).
+
+1. Ahorrar $5 todos los días. Es muy fácil de hacer. Imagina que tienes una deuda contigo mismo y debes pagarte $5. Págate primero a ti mismo antes de realizar cualquier otro gasto.
+2. Este dinero lo vas a invertir. Necesitas encontrar un instrumento financiero que te dé un buen rendimiento anual ajustado a la inflación.
+3. Vas a reinvertir tus ganancias. Los bancos hacen esto cuando les debes dinero, te cobrán intereses sobre los intereses. Aquí tú vas a ser ese banco. Puedes empezar con más de $5 diarios, y buscar instrumentos financieros con muy buena tasa de interés (que esto es lo que más importancia tiene).
+
+Es mejor tener $1,000,000 dentro de 50 años (o antes) que no tener nada.
+
+Es importante que tomes en cuenta las siguientes consideraciones para que este sistema funcione:
+
+Debes invertir cada vez que puedas, a veecs no vas a tener suficiente dinero porque el monto mínimo para invertir va a ser mayor a lo que tienes ahorrado. No te preocupes, simplemente sigue ahorrando hasta que te alcance.
+
+**No retieres las ganancias**, si haces esto entonces no vas a aprovechar el interés compuesto y tu dinero no se va a poder multiplicar tan rápido.
+
+**Nunca dejes de hacer aportaciones adicionales**, debes ser constante y tener disciplina en tus inversiones.
+
+[Calculadora de interés compuesto](https://calculadoras.omareducacionfinanciera.com/#/)
+
+[Ejercicios con la calculadora](https://youtu.be/o0Ax1ptha4g)
+
+[Videotutorial sobre la estrategia](https://omareducacionfinanciera.com/millonario-con-5-diarios/)
