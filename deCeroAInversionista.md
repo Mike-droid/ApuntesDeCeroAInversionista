@@ -235,3 +235,24 @@ Debes invertir cada vez que puedas, a veecs no vas a tener suficiente dinero por
 [Ejercicios con la calculadora](https://youtu.be/o0Ax1ptha4g)
 
 [Videotutorial sobre la estrategia](https://omareducacionfinanciera.com/millonario-con-5-diarios/)
+
+## Capítulo 7: Riesgos al invertir
+
+Es muy importante que antes de invertir, conozcas que existen los riesgos.
+
+Cualquier inversión tiene un riesgo, no existe una inversión 100% segura que te garantice tu dinero, si alguien te dice lo contrario debes tener mucho cuidado.
+
+El riesgo no es algo malo y eso no debería asustarte al invertir, simplemente debes verlo como algo que siempre va a existir y no te queda de otra más que aprender a vivir con ello.
+
+Lo que sí puedes hacer es aprender a **controlar el riego.**
+
+Estos son los riesgos que existen:
+
+- Riesgo de perder tu dinero: Existe la posibilidad de que inviertas en algo y pierdas ya sea una parte o todo el dinero que invertiste. Esto puede ocurrir si tomas malas decisiones o si los planes originales de la inversión no se ejecutan correctamente.
+- Riesgo del tipo de camio: El dinero que inviertas va a estar en una cierta moneda, puede ser el peso mexicano, el dólar estadounidense o cualquier otra moneda. Lo que debes entender es que los valores de las divisas cambian constantemente, entonces, el riesgo en tus inversiones es que la moneda en la que inviertes se devalúe. La recomendación es no tener todo tu portafolio de inversiones en una sola moneda, **diversifica**.
+- Riesgo de obtener menores rendimientos: Quizás invertiste en algo que, aunque no te generó pérdidas, tampoco te generó los rendimientos que originalmente estabas esperando.
+- Riesgo de que tus inversiones se atrasen: Puede ocurrir que inviertas a un plazo definido, el riesgo es que no recibas tu capital de vuelta en el plazo que originalmente esperabas.
+
+Recueda que antes de invertir debes tener pagadas tus deudas y tener un fondo de emergencia de por lo menos 3 meses de tus gastos.
+
+Esto te va a permitir asumir esos riesgos ya que si pierdes parte de tu dinero no te vas a quedar sin comer o sin pagar la renta. Tampoco te asustes, si inviertes de manera inteligente puedes controlar ese riesgo para limitar tus pérdidas.
