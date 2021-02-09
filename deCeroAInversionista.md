@@ -165,3 +165,31 @@ Retomemos la inflación en México del 3% en el 2019. Si esto se mantiene así, 
 Existen muchas estrategías para vencer la inflación. Dependiendo de tus objetivos, tolerencia al riesgo y necesidades, tomarás una opción (o varias). Ninguna es mejor que otra, todas son diferentes.
 
 [Video tutorial sobre la inflación](https://omareducacionfinanciera.com/vence-la-inflacion)
+
+## Capítulo 5: Estableciendo metas financieras
+
+Tus metas financieras te mantendrán motivado y te ayudarán a que pases de 0 a inversionista.
+
+Para lograr que esto sea más sencillo vamos a seguir el plan SMART.
+
+- S: Específico. Trata de enfocarte en una sola cosa a la vez.
+- M: Medible. Los resultados se deben poder medir, cada cierto tiempo debes alcanzar una cantidad que tú definas en tus ahorros o inversiones.
+- A: Alcanzable. La idea es que tu plan lo puedas lograr en el tiempo que te propongas.
+- R: Realista. Nunca te pongas metas que en tu situación actual no puedas cumplir. Piensa en números realistas que sí puedas lograr.
+- T: Tiempo. Necesitas tener un tiempo límite para cumplir tu meta, si no lo haces, lo seguirás aplazando.
+
+Ejemplo: Para finales de este año tener un portafolio de inversiones de $1,000,000. Esta meta es *específica, medible y tiene un tiempo definidio*. Adatpa este ejemplo a tu situación para que sea alcalzable y realista.
+
+¿Cómo puedo cumplir con este objetivo? Puedes aportar más dinero a tu portafolio de inversiones al mes y mejorar los rendimientos del dinero que ya inviertes.
+
+¿Cómo incremento mis aportanciones? Podrías revisar si puedes ahorrar un poco más en tus gastos mensuales. La otra opción sería *aumentar tus ingresos*.
+
+¿Cómo mejorar los rendimientos? En los próximos capítulos está la respuesta.
+
+Trata de tener metas para diferentes intervarlos de tiempo;
+
+- Corto plazo; de 1 a 2 años
+- Mediano plazo; de 2 a 5 años
+- Largo plazo: mayores a 5 años
+
+[Videotutorial para elaborar plan financiero](https://omareducacionfinanciera.com/metas-financieras-2020/)
