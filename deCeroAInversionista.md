@@ -8,7 +8,7 @@ Sitio web: [Omar Educación Financiera](https://omareducacionfinanciera.com/blog
 
 [Recursos gratuitos para la lectura](https://omareducacionfinanciera.com/recursos-libro)
 
-## Capítulo1: Aprende a ahorrar
+## Capítulo 1: Aprende a ahorrar
 
 ### ¿Cómo lograr ahorrar dinero?
 
@@ -256,3 +256,85 @@ Estos son los riesgos que existen:
 Recueda que antes de invertir debes tener pagadas tus deudas y tener un fondo de emergencia de por lo menos 3 meses de tus gastos.
 
 Esto te va a permitir asumir esos riesgos ya que si pierdes parte de tu dinero no te vas a quedar sin comer o sin pagar la renta. Tampoco te asustes, si inviertes de manera inteligente puedes controlar ese riesgo para limitar tus pérdidas.
+
+## Capítulo 8: Calculando los rendimientos
+
+Un rendimiento es simplemente **la ganancia** que obtienes al invertir, por ejemplo, si inviertes $100 y en un año ganas $10 entonces se dice que tuviste un rendimiento de $10.
+
+Usualmente los rendimientos se expresan en porcentaje al año, siguiendo con este mismo ejemplo, para calcular el rendimiento sobre tu inversión de $100 donde en un ganaste $10, se utiliza la siguiente fórmula:
+
+$$ Rendimiento = \frac{Cantidad recibida - Cantidad invertida}{Cantidad invertida} \times 100 $$
+
+Retomando el ejemplo:
+
+$$ Rendimiento = \frac{110 - 100}{100} \times 100 = 10% $$
+
+Podemos concluir que el rendimiento sobre esta inversión fue de 10% en un año.
+
+### Rendimiento anualizado
+
+Cuando inviertes a un plazo distinto de 1 año, es necesario calcular el rendimiento anualizado, este nos dice cada año realmente cuánto crece nuestra inversión considerando el efecto del interés compuesto.
+
+La fórmula es la siguiente:
+
+$$ Rendimiento anualizado = \left(1 + \frac{Cantidad Recibida - Cantidad Inicial}{Cantidad Inicial}\right) ^\frac{1}{N} - 1 $$
+
+Donde:
+
+- Cantidad Recibida = Monto que recibiste al finalizar la inversión.
+- Cantidad Inicial = Monto invertido
+- N = Número de periodos (Usualmente son años)
+
+Ejemplo: Vamos a calcular el rendimiento anualizado de una inversión de $10,000 a 5 años que nos ofrece 10% de rendimiento anual.
+
+Esto quiere decir que los rendimientos quedan así:
+
+- Año 1: 10% de $10,000 = $1000
+- Año 2: 10% de $10,000 = $1000
+- Año 3: 10% de $10,000 = $1000
+- Año 4: 10% de $10,000 = $1000
+- Año 5: 10% de $10,000 = $1000
+
+El rendimiento a lo largo de 5 años es la suma que da $5000.
+
+Entonces, nuestras variables son:
+
+- Cantidad recibida = $15,000
+- Cantidad inicial = $10,000
+- N = 5
+
+$$ Rendimiento anualizado = \left(1 + \frac{15000 - 10000}{10000}\right) ^\frac{1}{5} - 1  = 8.45$$
+
+El rendimiento anualizado es de 8.45%, muy por debajo del 10%, debido a que no hay interés compuesto 👎🏻.
+
+### ¿Qué rendimientos puedes ganar con tus inversiones?
+
+México en Junio de 2020 (los valores cambian conforme pasa el tiempo):
+
+### Instrumento de renta fija
+
+Tú haces una inversión y te van a pagar un porcentaje de rendimiento que se define desde el principio
+
+- CETES: 5% al año
+- SOFIPOS: 10% a 12% al año
+- Págares bancarios y Certificados de Depósito (CEDE): de 5% a 8% al año
+- Crowfonding inmobiliario: 10% a 24% al año
+- Préstamos a empresas: 10% a 24% al año
+- Préstamos a personas: 8% a 34% al año
+- Franquicias: 10% a 26% al año
+- Aceledora de negocios: 15% a 24% al año
+
+### Instrumentos de renta variable
+
+Aquí el rendimiento es variable, es decir, no lo vas a conocer al invertir, estos rangos son aproximados pero pueden ser completamente distintos.
+
+- Fondos de inversión que invierten en deuda: 4% a 10% al año
+- Fondos de inversión que invierten en acciones (en promedio durante un plazo largo de 10 años): 10% a 15% al año (Si el fondo es bueno)
+- ETF's que siguen al S&P 500 (en promedio durante un plazo largo de 10 años): 10% al año
+- Acciones individuales: No hay límite, pero si te va muy bien, en promedio durante un plazo de 10 años puedes esperar entre 10% y 20% al año.
+- FIBRAS: Aquí el rendimiento es muy incierto 😥
+- Criptomonedas: Este instrumento es extremadamente volátil, puede multiplicar tu inversión o hacerte perder mucho dinero, sería imposible dar un rango.
+
+### Conclusión
+
+Ya tienes una idea de los rendimientos que puedes obtener con los diferentes tipos de inversiones. Si encuentras algo que te ofrezca más de 30% **ten mucho cuidado**, es muy poco probable.
