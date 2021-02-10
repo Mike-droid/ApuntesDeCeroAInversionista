@@ -338,3 +338,74 @@ Aquí el rendimiento es variable, es decir, no lo vas a conocer al invertir, est
 ### Conclusión
 
 Ya tienes una idea de los rendimientos que puedes obtener con los diferentes tipos de inversiones. Si encuentras algo que te ofrezca más de 30% **ten mucho cuidado**, es muy poco probable.
+
+## Capítulo 9: Tu perfil de inversionista
+
+Toma en cuenta los siguientes puntos:
+
+### Horizonte de inversión
+
+¿Cuánto tiempo puedes comprometer el dinero que vas a invertir?
+
+- Corto plazo: Menor a 2 años
+- Mediano plazo: Entre 2 y 5 años
+- Largo plazo: Mayor a 5 años
+
+Algunos ejemplos:
+
+- Corto plazo
+  - CETES
+  - SOFIPOS
+  - Pagarés bancarios y Certificados de Depósito (CEDE)
+  - Fondos de inversión de deuda
+- Mediano plazo
+  - Crowfunding inmobiliario
+  - Préstamos a empresas
+  - Aceleradora de negocios
+  - FIBRAS
+  - Criptomonedas
+- Largo plazo
+  - Franquicias
+  - Fondos de inversión en acciones
+  - Acciones individuales
+  - ETF's
+
+### Tolerancia al riesgo
+
+¿Cuánto riesgo estás dispuesto a correr?
+
+- Bajo riesgo: Es muy poco probable que pierdas dinero, aunque los rendimientos no van a ser tan elevados.
+- Medio riesgo: Existe una probabilidad moderada de que pierdas dinero si tomas malas decisiones y a cambio se te pagan rendimientos mayores.
+- Alto riesgo: Existe una alta probabilidad de que pierdas dinero si tomas malas decisiones y puedes obtener los rendimientos más elevados.
+
+Algunos ejemplos:
+
+- Bajo riesgo
+  - CETES
+  - SOFIPOS
+  - CEDE
+  - Fondos de inversión de deuda
+- Mediano riesgo:
+  - Crowfunding inmobiliario
+  - Préstamos a empresas
+  - FIBRAS
+  - ETF'S
+- Alto riesgo:
+  - Préstamos a personas
+  - Franquicias
+  - Fondos de inversión en acciones
+  - Acciones individuales
+  - Aceleradora de negocios
+  - Criptomonedas
+
+Esto es sólo una regla general. Para evaluar el nivel de riesgo de un instrumento en específico es necesario que hagas una investigación más a detalle.
+
+### Objetivos al invertir
+
+#### ¿Para qué invertir?
+
+La principal razón por la que invertimos es para hacer crecer nuestro dinero. Pero también puede ser un ingreso adicional, sacarle provecho antes de gastarlo en algún lujo, vacaciones, etc.
+
+Otro puede ser obtener la libertad financiera, que consiste en tener suficiente dinero para vivir el resto de tu vida sin tener que trabajar. Ese dinero que utilizas para solventar tus gastos proviene de tus inversiones y del capital que tienes acumulado.
+
+Es importante que definas la **razón por la que estás invirtiendo** y que **desarrolles tu plan** de acuerdo a ello.
