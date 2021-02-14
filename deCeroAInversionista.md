@@ -409,3 +409,413 @@ La principal razón por la que invertimos es para hacer crecer nuestro dinero. P
 Otro puede ser obtener la libertad financiera, que consiste en tener suficiente dinero para vivir el resto de tu vida sin tener que trabajar. Ese dinero que utilizas para solventar tus gastos proviene de tus inversiones y del capital que tienes acumulado.
 
 Es importante que definas la **razón por la que estás invirtiendo** y que **desarrolles tu plan** de acuerdo a ello.
+
+## Capítulo 10: Instrumentos de renta fija
+
+Son la forma más segura de invertir, consiste en que tú haces una inversión y te van a pagar un porcentaje de rendimiento que se define desde el principio.
+
+### CETES
+
+En México la mejor opción para ahorrar es guardando tu dinero en Certificados de Tesorería o CETES. En 2020 pagan alrededor de un 5% de interés al año.
+
+Los CETES están respaldados por el gobierno. Literal le estás prestando dinero al gobierno paar que en un futuro te pague lo que le prestaste más un determinado interés por lo que esto es considerado como la inversión más segura en México.
+
+Puedes empezar a ahorrar en CETES desde $100 pesos. Puedes usar la página de [Cetes Directo](www.cetesdirecto.com) o su aplicación móvil.
+
+Puedes comprar CETES a un plazo de 1, 3, 6 y 12 meses, es una excelente herramienta a corto plazo.
+
+Como estás ganando dinero extra también debes pagar el impuesto sobre la renta o ISR, para esto CETES te retiene el 1.45% del capital invertido en 2020 y eso es automático.
+
+### [Cetes directo](www.cetesdirecto.com)
+
+Aquí puedes adquirir los CETES, es una plataforma gratuita. Los requisitos son ser mayor de 18 años, tener nacionalidad mexicana y contar con una cuenta bancaria.
+
+La página ofrece una calculadora que te permite estimar cuánto dinero puedes ganar, la puedes ver en este enlace:
+
+[Calculadora de cetes](https://www.cetesdirecto.com/calculadoras/)
+
+[Videotutorial sobre cómo usar cetes](https://omareducacionfinanciera.com/ahorrar-con-cetes)
+
+### Instrumentos adicionales a cetes
+
+### BONOS
+
+Los BONOS o BONOS M son "Bonos de desarrollo del gobierno federal con tasa de interés fija". Básicamente le vas a prestar el dinero al gobierno para que ellos lo inviertan en sus proyectos.
+
+Por hacer esto, el gobierno te va a pagar intereses cada 6 meses a una tasa fija que se determina en el momento en que adquieres el bono, lo puedes comprar a 3, 5, 10, 20 y 30 años.
+
+*No necesariamente a mayor plazo mayor rendimiento* ⚠
+
+### BONDES D
+
+También son "bonos de desarrollo del gobierno federal" solo que estos son de tasa variable, esto quiere decir que cada 28 días te van a pagar intereses que varían dependiendo de la tasa ponderada de fondeo bancario. Estos solo se ofrecen a un plazo de 5 años.
+
+### UDIBONOS
+
+Son iguales a los BONOS solo que te los van a vender en UDIS o unidades de inversión en vez de pesos.
+
+El beneficio de comprar UDIBONOS es que, si la inflación se descontrola y sube bastante, por ejemplo entre 6% y 7%, esto no te va a afectar para nada y aparte vas a seguir recibiendo tu rendimiento fijo.
+
+### Venta prematura de CETES, BONOS, BONDES D y UDIBONOS
+
+Puede que saques tu dinero antes del tiempo que habías establecido, esto puede hacer que no obtengas el rendimiento esperado o incluso pierdas dinero. No solo te fijes en los rendimientos, también debes tener en cuenta por cuánto tiempo planeas dejar tu dinero ahí para luego no arrepentirte por sacarlo antes de tiempo.
+
+[Información de cetes vs bonos](https://omareducacionfinanciera.com/cetes-vs-bonos)
+
+### BONDDIA
+
+Es un fondo de inversión al que se va el dinero que no inviertes en algún otro instrumento en [Cetes directo](www.cetesdirecto.com). Tiene liquidez diaria, esto quiere decir que siempre tendrás acceso a tu dinero en cualquier día hábil bancario.
+
+Puntos críticos de este fondo de inversión:
+
+- Horizonte de inversión: Ellos recomiendan que tengas tu dinero por lo menos por 1 año para obtener buenos resultados.
+- Riesgo: Es una inversión bastante segura.
+- Rendimientos: Es bastante similar a CETES.
+- Cartera de inversión: 65% se invierte en BONDESD, 9% en CETES y el resto en otros instrumentos de deuda.
+
+### ENERFIN
+
+Es otro fondo de inversión que aparece en la plataforma de [Cetes directo](www.cetesdirecto.com). Invierte principalmente en instrumentos de deuda y se complementa con acciones de empresas que están en el sector energético. Tiene una liquidez mensual.
+
+Puntos críticos:
+
+- Horizonte de inversión: Ellos recomiendan que tengas el dinero por lo menos 3 años para obtener buenos resultados. El fondo es de alto riesgo.
+- Riesgos: El fondo invierte el 80% de sus activos en cartera de deuda.
+- Rendimientos: No han sido tan buenos comparados con CETES.
+- Cartera de inversión: 21% en deuda aprogecuaria, 19% en BONOS, 19% en UDIBONOS, 7% en deuda de PEMEX y 6% en deuda de la CFE, el resto en otro activos mayormente de deuda.
+
+### ¿Cuál es la mejor opción?
+
+CETES y BONDDIA.
+
+[Información adicional de CETES y BONDDIA](https://omareducacionfinanciera.com/invertir-en-cetes-bonddia-enerfin/)
+
+### SOFIPOS
+
+Una Sociedad Financiera Popular (SOFIPO) es una institución que se dedica a ofrecer servicios de ahorro, crédito e inversión popular en zonas geográficas rurales y periferias urbanas.
+
+Tienen como proósito fomentar el ahorro popular y expandir el acceso al financiamiento a personas, negocios y al segmeento de bajos recursos que normalmente no tiene acceso a los bancos.
+
+Los beneficios de las SOFIPOS son los siguientes:
+
+- Se encuentran regulados por la CONDUSEF en materia de protección al cliente. [CONDUSEF](https://www.gob.mx/condusef)
+- Están reguladas por el Banco de México en temas relacionados con el sistema de pagos. [Banxico](https://www.banxico.org.mx/)
+- Tus inversiones están cubiertas por un seguro llamado PROSOFIPO. [PROSOFIPO](http://www.prosofipo.mx/)
+- Los SOFIPOS están reguladas por la Comisión Nacional Bancaria y de Valores (CNBV) por lo cual cuentan con autorización para captar depósitos del público. (CNBV)[https://www.gob.mx/cnbv]
+- Cuentan con un beneficio fiscal que te permite no pagar impuestos mientras tu saldo promedio diario en SOFIPOS no exceda 5 UMAs (Unidades de Medida y Actualización). [UMA](https://www.inegi.org.mx/temas/uma/)
+
+En México actualmente existen 34 SOFIPOS reguladas por la CNBV, puedes consultar la lista completa [aquí](https://www.cnbx.gob.mx/Entidades-Autorizadas/Paginas/Sofipos.aspx)
+
+Para evular qué tan segura es una SOFIPO existe un parámetro llamado Nivel de Capitalización (NICAP) y con base a esto se dividen a las SOFIPOS en:
+
+1. NICAP >= 131%
+2. NICAP >= 100% y <= 131%
+3. NICAP >= 56% y <= 100%
+4. NICAP <= 56%
+
+Lo ideal es invertir en la categoría 1.
+
+La información del NICAP se actualiza cada mes y la puedes consultar [aquí](http://portafoliodeinformacion.cnbv.gob.mx/eacp1/Paginas/sf_infosituacion.aspx)
+
+3 SOFIPOS recomendadas:
+
+#### Kubo Financiero
+
+[Kubo Financiero](www.kubofinanciero.com)
+
+Su modelo te permite invertir con ellos y obtener rendimiento de hasta un 10% al año en 2020. Puedes empezar desde $100MX y todo se hace en línea.
+
+- Kubo Plazo Fijo: Puedes invertir desde 7 hasta 360 días. Dependiendo del plazo y del monto a invertir va a ser el rendimiento que podrás recibir.
+- Kubo Plus: Es un grupo de la comunidad de Omar Educación Financiera, para unirte de manera gratuita lo puedes hacer en [este enlace](https://omareducacionfinanciera.com/kubo)
+
+No te recomiendo que inviertas en Kubo Financiero más de 25,000 UDIs o alrededor de $160,000MXN en 2020 ya que a partir de este monto tu inversión ya no va a estar protegida en caso de que la empresa quiebre.
+
+#### Supertasas
+
+Su NICAP usualmente está por encima de 300%, quiere decir que el riesgo es menor. El funcionamiento es muy similar a Kubo Financiero y las tasas a 1 año también andan alrededor del 10%.
+
+Aquí es necesario que hagas la firma del contrato de manera presencial.
+
+Todas las inversiones se hacen por medio de la aplicación móvil. Puedes utilizar [este enlace](https://omareducacionfinanciera.com/supertasas) para abrir una cuenta en Supertasas, si inviertes $20,000 te van a regalar $500.
+
+#### Financiera Sustentable
+
+Para invertir aquí lo debes de hacer por medio de su aplicación "FINSUS" ya sea en celular o en una table. En Junio de 2020 pagan tasas un poco mayores que en un plazo de 1 año pueden llegar hasta el 12%.
+ El riesgo es un poco mayor que en las 2 SOFIPOS de antes, aunque no es algo alarmante.
+
+ Puedes descargar ña app de FINSUS [en este enlace](https://www.finsus.app/) y utilizar este código "Carrera-964".
+
+[Recursos adicionales de SOFIPOS](https://omareducacionfinanciera.com/invertir-sin-pagar-impuestos/)
+
+[Comparación de las 3 sofipos anteriores](https://youtu.be/uw54O411BJU)
+
+### Pagarés bancarios y Certificados de Depósito (CEDE)
+
+Los bancos cuentan con un seguro del Instituto para la Protección al Ahorro Bancario ([IPAB](https://www.gob.mx/ipab)) que protege tus ahorros por hasta 400,000 UDIs o alrededor de $2,574,858.40MXN en Junio de 2020.
+
+También son instituciones supervisadas por la CONDUSEF, por la Secretaria de Hacienda y Crédito Público (SHCP), el Banco de México y la Comisión Nacional Bancaria y de Valores (CNBV).
+
+En los bacnos vas a encontrar 2 instrumentos de inversión:
+
+- Pagarés bancarios
+- CEDE
+
+Algunos ejemplos de estos bancos son los siguientes:
+
+- [Accendo](https://www.accendo.com.mx)
+- [Banco Inmobiliario de México(BIM)](https://www.bim.mx/)
+- [Consubanco](https://www.consubanco.com/)
+
+Los bancos tradicionales como Banorte, Bancomer, Santander, te van a dar rendimientos muy malos así que en la mayoría de los casos es mejor invertir en CETES.
+
+### FINTECHS en México
+
+Existen una gran cantidad de empresas mexicanas que combinan la tecnología con los servicios financieros, a estas se les conoce como empresas FINTECH.
+
+Aquí puedes invetir en muchas cosas, por ejemplo, préstamos a personas, préstamos a empresas, bienes raíces tanto para venta y renta de propiedades, paneles solares, franquicias, startups, pequeñas y medianas empresas, etc.
+
+### Crowfunding inmobiliario
+
+#### M2crowd
+
+Es una empresa FINTECH donde podrás invertir en bienes raíces a partir de $1000MXN.
+
+Los rendimientos pueden ir entre 11% y 24% anual.
+
+Los distintos esquemas de inversión que manejan son:
+
+- Deuda Tasa Fija: Recibes ganancias periódicas por el préstamo que hiciste, así que siempre sabrás cuánto dinero tendrás al final del periodo. La frecuencia de los pagos depende del proyecto. Normalmente puede ser cada 2 o 4 meses.
+- Deuda Prioridad de Pago o Equity: Se entregarán los recursos al desarrollador por una parte del inmueble y te pagará hasta que se venda la propiedad.
+- Patrimonial: Aquí ganas por la renta del inmueble.
+
+En los 3 casos tu inversión está respaldada por un bien inmueble.
+
+Puedes abrir una cuenta en M2Crowd [en este enlace](https://omareducacionfinanciera.com/m2crowd)
+
+[Este es un tutorial sobre la plataforma M2Crowd](https://omareducacionfinanciera.com/invertir-en-m2crowd)
+
+### Briq
+
+Es otra plataforma de Crowfunding inmobiliario. Puedes invertir desde $1000MXN y los rendimientos pueden ir desde 10% a 24%.
+
+Lo mejor de este tipo de inversiones es que están resapaldadas por un bien inmueble. En caso de que no recibas tu pago, Briq tiene todo el derecho de embargar la propiedad que estaba como garantía, venderla y así recuperar una parte o todo el dinero de los inversionistas.
+
+El riesgo es menor que en otro tipo de inversiones. Desde tu primer día de depósito inicial ya estarás generando rendimientos. Tu dinero irá directo a un fondo de inversión de renta fija que te estará generando intereses y así tendrás liquidez diaria.
+
+Ellos manejan un sistema de puntaje de 1 al 5.9, siendo 1 el proyecto menos riesgoso y 5.9 el más riesgoso.
+
+Briq cobra una comisión del 1% que es bastante baja.
+
+Te recomiendo que **diversifiques tus inversiones**. No inviertas todos tus ahorros en una sola plataforma y menos en un solo proyecto. Hay muchos otros instrumentos donde puede invertir para diversificar tus inversiones.
+
+
+Si te interesa abrir una cuenta en Briq [lo puedes hacer en este enlace](https://omareducacionfinanciera.com/briq)
+
+[Este es un tutorial de la plataforma de Briq](https://omareducacionfinanciera.com/invertir-en-briq)
+
+[Entrevista con el fundador de Briq](https://youtu.be/Rf-p47u-qsQ)
+
+### Expansive
+
+Similar a Briq y M2Crowd. La tasa de interés se define desde el inicio. Dependiendo del proyecto puede que recibas pagos periódicos o hasta el final.
+
+El mínimo de inversión es de $5000 y los rendimientos pueden ser entre 12% y 15% al año.
+
+Estas inversiones cuentan con una garantía hipotecaria que reslpada tu inversión, por lo que es bastante complicado que pierdas tu dinero.
+
+En el peor de los casos puede que se tarden en pagarte, pero aunque se atrase de todas formas te van a seguir pagando la tasa anual de interés que se acordó al inicio durante todo el atraso por lo que al final realmente no pierdes dinero, solo tardas más tiempo en recuperarlo.
+
+Si te interesa invertir en Expansive puedes abrir una cuenta [en este enlace](https://omareducacionfinanciera.com/expansive)
+
+### Crowfunding de Copropiedad
+
+### 100 Ladrillos
+
+Esta plataforma se enfoca en la renta de locales comerciales y oficinas, aquí te conviertes en copropietario de un inmueble para rentarlo.
+
+Aquí podrás invertir en propiedades por menos de $5000 pesos.
+
+#### Dos tipos de productos de inversión
+
+1. Fracciones de propiedades en preventa. Son proyectos inmobiliarios en construcción que te ofrecerán un descuento si los adquieres antes de la fecha estimada de entrega. Una vez que terminan de construir la propiedad la meten a un fideicomiso bancario y de aquí recibirás tus rentas de por vida o hasta que dedicas vender tu participación.
+2. Fracciones de propiedades en venta. Estos son los inmuebles ya terminados, se metieron al fideicomiso y están listos para ser rentados. El precio del ladrillo lo pones tú.
+
+Aquí viene uno de los riesgos, la liquidez de esta plataforma es baja ya que dependes de los inversionistas que existan en 100 Ladrillos.
+
+Mi recomendación es que en 100 Ladrillos consideres un horizonte de inversión a *largo plazo*.
+
+100 Ladrillos se encagará de administrar completamente la propiedad incluyendo: pagar impuestos, seguros, gestionar contratos, promover y rentar la propiedad, facturar y cobrar la renta a los inquilinos y darle mantenimiento al inmueble.
+
+Si en algún momento deseas vender tus ladrillos recibirás los beneficios de toda la plusvalía que has generado hasta ese momento.
+
+Puedes abrir una cuenta en 100 Ladrillos [utilizando este enlace](omareducacionfinanciera.com/100ladrillos)
+
+[Este es un tutorial de la plataforma](omareducacionfinanciera.com/invertir-en-100ladrillos)
+
+[Entrevista con un socio fundador](omareducacionfinanciera.com/100ladrillos-entrevista)
+
+### Monific
+
+Es bastante similar a 100 Ladrillos. El monto de entrada es de $1000MXN.
+
+Ellos se enfocan en el sector del turismo, principalmente en hoteles y en el sector comercial como gimnasios, farmacias, entre otros. El rendimiento que te ofrecen va a variar dependiendo del nivel de ocupación que tengan los inmuebles.
+
+Los rendimientos se ven afectados por los siguientes componentes:
+
+- Por las rentas de las propiedades.
+- Por la plusvalía que ganan las propiedades en las que inviertes ya que las puedes vender en el mercado secundario.
+
+Cuentan con una plataforma web y una app móvil para que inviertas desde tu celular.
+
+Puedes abrir una cuenta en Monific [utilizando este enlace](omareducacionfinanciera.com/monific)
+
+### Préstamos a empresas
+
+### RedGirasol
+
+Esta plataforma te permitirá invertir en panales solares a partir de $500MXN. Esta es la solución perfecta si te interesa invertir tu dinero y en el proceso ayudar al planeta.
+
+Los rendimientos anuales que ofrecen son alrededor de un 16% en promedio.
+
+RedGirasol se encarga de todos los trámites tanto administrativos como los de instalación, por lo que tú como inversionista podrás invertir tu dinero en un proyecto sin que tengas que darle seguimiento, solo debes poner el capital y disfrutar de los ingresos pasivos que esto te va a generar.
+
+Tu inversión está respaldada por los paneles solares.
+
+Puedes utilizar [este enlace para abrir una cuenta en RedGirasol](omareducacionfinanciera.com/redgirasol)
+
+[Tutorial sobre la plataforma](omareducacionfinanciera.com/invertir-en-redgirasol/)
+
+### Lendera
+
+En esta plataforma puedes invertir en equipo y maquinaría desde $250MXN. La plataforma ofrece rendimientos entre 12% y 24% anual.
+
+Ten en cuenta que **no vas a poder recibir tu inversión inicial de vuelta hasta que termine el periodo establecido.**
+
+La gran ventaja que esta plataforma ofrece a los inversionistas es que ellos mismos se encargan de analizar y aprobar cada uno de estos proyectos, este proceso es llevado a cabo por un grupo de expertos.
+
+Esto garantiza que cada proyecto tenga una alta probabilidad de ser rentable. Si por alguna razón el proyecto no tiene éxito, aún existe la posibilidad de que vendan el equipo para recuperar tu dinero.
+
+Cuando se venda el equipo, Lendera te va a cobrar 2% de lo que te corresponda del activo.
+
+También cuentan con un modelo de riesgos que ha sido probado durante 14 años, lo cual ayuda a reducir la probabilidad de que no paguen.
+
+Puedes utilizar [este enlace para abrir una cuenta en Lendera](omareducacionfinanciera.com/lendera) y te van a regalar $25 al invertir tus primeros $250.
+
+[Tutorial sobre Lendera](omareducacionfinanciera.com/invertir-en-lendera)
+
+### Préstamos a personas
+
+### YoTePresto
+
+Ellos ofrecen rendimientos de hasta 38.90% al año. Puedes invertir desde $200, solo necesitas una cuenta bancaria e internet.
+
+Tú decides a quien prestarle, sabrás por cuánto tiempo va a ser el préstamo, cuáto vas a recibir de rendimiento y el riesgo que conlleva tu inversión.
+
+Según sus estadísticas, la tasa promedio de rendimiento que recibe el inversionista en YoTePresto es de alrededor de un 17.5% anual. Para Junio de 2020 ya han entregado más de 750 millones de pesos en créditos y el 95% de los solicitantes paga a tiempo.
+
+De todos los préstamos, solamente 4% han sido de cartera vencida (atraso de 90 o más días).
+
+En promedio se recupera un 30% de la cartera vencida.
+
+YoTePresto tiene un algoritmo que analiza 60 variables para evaluar a los candidatos, de cada 100 solicitudes solo se aprueban 5. De esta manera se aseguran de solo ingresar a la plataforma los mejores candidatos.
+
+En su plataforma podrás ver la calificación de riesgo que se le asigna a cada usuario, los factores más importantes que se toman en cuenta son:
+
+- El historial crediticio
+- A qué se dedica
+- La antigüedad laboral
+- Deudas actuales
+- Ingresos que destinan al pago de deudas
+
+Con base a eso, se establece la tasa de rendimiento que puede ir de 8.9% a 38.90% al año dependiendo de la calificación. A mayor riesgo, mayor rendimiento.
+
+Algunos consejos:
+
+- Diversifica, no pongas todo tu dinero en un sólo préstamo, te recomiendo que solo prestes de $200 a $500 por persona.
+- Trata de prestar solo a personas que buscan consolidar deudas, estadísticamente son las que tienen mayor probabilidad de pagarte.
+- Busca personas que tengan ingresos altos y gastos bajos, mientras más dinero tengan disponible cada mes, mejor.
+- Intenta no prestarle a alguien cuya puntuación en buró sea menor a 660. Mientras más alta esta puntuación, mejor.
+- No recomiendo prestarle dinero a personas con ingresos menores a $15,000MXN o personas muy jóvenes, menores de 23 años.
+- Haz preguntas que consideres necesarias al solicitante, recuerda que es tu dinero y tú eliges las condiciones en las que quieres prestar.
+- Intenta prestara los que ofrezcan el rendimiento más elevado con el que te sientas cómodo con el riesgo.
+- Recuerda que al hacer un préstamo siempre hay riesgo de que no te paguen, si esto sucede, ellos se van a encargar de hacer la cobranza por ti, aun así, no hay garantía de que recuperes tu dinero.
+- Recomiendo que empieces con poco, aprovecha esos $200 para empezar a operar.
+
+Puedes abrir una cuenta en YoTePresto [utilizando este enlace](omareducacionfinanciera.com/yotepresto2) y te van a regalar $250 al invertir $10,000.
+
+[Tutorial sobre la plataforma](omareducacionfinanciera.com/invertir-en-yotepresto)
+
+### Doopla
+
+Es una plataforma donde podrás prestar dinero a otras personas desde $500MXN, aunque el mínimo para abrir una cuenta es de $2500MXN.
+
+¿Qué beneficios tiene?
+
+Si vas a pedir dinero, te pueden dar tasas desde un 9% anual, intereses bajos, sin costo por trámites y te contestan muy rápido.
+
+si eres inversionista, te ofrecen un 19% de rendimiento promedio al año.
+
+Puedes prestar tu dinero de 3 a 36 meses, cada mes te van a estar pagando de vuelta una parte del capital más intereses.
+
+¿Es seguro invertir?
+
+Ellos ofrecen una cobranza a través de la nómina. Es decir, a los que piden el préstamo les van a retirar el dinero de la cuenta bancaria donde reciben su sueldo, así siempre tendrán que pagarte.
+
+Sin importar cuánto inviertas en Doopla, ten por seguro que ellos se encargarán de hacer lo posible por recuperar tu inversión.
+
+Puedes abrir una cuenta en Doopla [utilizando este enlace](https://omareducacionfinanciera.com/doopla) y ellos te van a regalar $250 al invertir $2500.
+
+[Tutorial sobre Doopla](https://omareducacionfinanciera.com/fintech-populares-doopla)
+
+### Prestadero
+
+Te permite prestar dinero desde $250MXN.
+
+Funciona exactamente igual que las anteriores, la tasa promedio de rendimiento es de 14% al año.
+
+Si te interesa incluirla en tu portafolio puedes [utilizar este enlace](https://omareducacionfinanciera.com/prestadero) para abrir una cuenta.
+
+### Invertir en Startups y Franquicias
+
+**Actualización Enero 2021**: Los rendimientos han sido muy malos debido al COVID-19. Recomiendo invertir cuando la situación se haya calmado.
+
+### PlayBusiness
+
+PlayBusiness es una empresa FINTECH de crowfunding de capital también conocido como equity crowfunding que te permitirá invertir en startups o franquicias desde 3 cómodas mensualidades de $800MXN.
+
+¿Qué es una startup?
+
+Son empresas de reciente creación, fundadas por 1 o varios emprendedores. Usualmente tienen una base tecnológica, innovadora y que puede tener un alto crecimiento en el futuro.
+
+Son inversiones de alto riesgo a mediano y largo plazo. En 2016, el **75% de las startups mexicanas fracasa en los primeros 2 años**. O sea que 3 de cada 4 startups va a morir en 2 años.
+
+Pero si eliges una startup que sobrevive y logra obtener el crecimiento esperado, tu inversión se puede multiplicar 2, 3, 4, 5 o más veces en 3 o 4 años.
+
+Podemos concluir 2 cosas:
+
+1. Diversifica tu dinero en varias empresas, si lo inviertes todo en una y fracasa, entonces lo perderás todo.
+2. Los rendimientos son tan altos que te puedes dar el lujo de perder dinero en varias empresas ya que lo vas a recuperar cuando encuentres a la ganadora.
+
+Debes tener en cuenta que estas inversiones es recomendable hacerlas mínimo por 3 años.
+
+### Invertir en franquicias por medio de PlayBusiness
+
+En las franquicias una empresa le cede los derechos de uso de marca y el conocimiento del negocio a un operador que va a abrir nuevas sucursales a cambio de una inversión inicial y un porcentaje de las ganancias que se generen.
+
+Para invertir en una franquicia de la manera tradicional necesitas de 2 a 20 millones de pesos dependiendo de cuál sea, con PlayBusiness esto ya no es un problema, lo puedes hacer desde 3 mensualidades de $800.
+
+Puedes abrir una cuenta en PlayBusiness [en este enlace](https://omareducacionfinanciera.com/playbusiness)
+
+[Tutorial de la plataforma](https://omareducacionfinanciera.com/invertir-en-playbusiness/)
+
+### Aceleradora de negocios
+
+### Wortev Capital
+
+**Enero 2021:** Debido a la pandemia, es muy riesgoso invertir en PYMES.
+
+Wortev Capital es una aceleradora de negocios que se dedica a impulsar a pequeñas empresas inyectándose dinero y aparte les brinda asesoría en 3 módulos que se llaman ingeniería de negocios, tecnologías de la información y un módulo financiero que incluye lo administrativo, fiscal y contable.
+
+El capital lo recaudan por medio de inversionistas como tú, a cambio ofrecen un rendimiento de 24% al año con pagos mensuales de 2% con una inversión mínima de $10,000 a un plazo fijo de 12 meses y no cobran comisiones.
+
+Una vez concluidos los 12 meses tienes la opción de retirar el capital inicial o de reinvertir durante otros 12 meses.
