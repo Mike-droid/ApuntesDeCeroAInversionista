@@ -1294,3 +1294,62 @@ Los rendimientos son muy variables, puedes ganar mucho dinero o perderlo en la m
 [Aquí puedes consultar las criptomonedas más populares por su capitalización bursátil](https://coinmarketcap.com/)
 
 Si deseas invertir en criptomonedas lo puedes hacer por una plataforma que se llama Bitso, [en este enlace puedes abrir una cuenta](https://omareducacionfinanciera.com/bitso)
+
+## Capítulo 12: Invertir para el retiro
+
+Ahora que ya conoces la gran variedad de instrumentos financieros, seguro te estás preguntando cuál es la mejor manera de invertir para tu retiro.
+
+La realidad es que una buena estrategia para el retiro debe ser algo sencillo donde simplemente inviertas en pocos instrumentos constatemente mes con mes sin preocuparte por las fluctuaciones del mercado o la situación económica actual.
+
+Como te comenté en AFORES, no debes depender de alguien más para tu retiro, administra tus propios fondos, tendrás mejores resultados.
+
+Mi sugerencia es simplemente que consideres 3 activos a invertir:
+
+- BONOS: Esto puede ser CETES o un ETF que se llama BND en la bolsa de valores.
+- ETF VOO: Inversión en el S&P 500
+- ETF VGT: Inversión en empresas tecnológicas de Estados Unidos.
+
+Los BONOS te van a dar la seguridad de que tu dinero no va a tener tanta volatilidad en el corto plazo. Bajo riesgo y bajo rendimiento.
+
+VOO te permite diversificar tu dinero en las 500 empresas más grandes que cotizan en la bolsa de EEUU, las comisiones son ridículamente bajas de 0.03% al año.
+
+VGT te va a permitir invertir de manera más específica en el sector tecnológico.
+
+La idea es la siguiente:
+
+- Una parte de tu portafolio siempre la vas a tener en BONOS. Para calcular el porcentaje de destino, a 100 réstale tu edad, por ejemplo si tienes 30 años, 100-30=70%. Entonces 70% para acciones y 30% para BONOS.
+- Define qué vas a comprar con ese 70% de acciones. Te propongo VOO(es la más segura) y VGT(más riesgo para más rendimientos).
+
+Opción conservadora: (30% en BND, 70% en VOO y $100,000)
+
+- BND: $30,000
+- VOO: $70,000
+- Portafolio total: $100,000
+- Edad: 30 años
+
+Opción moderada: (30% en BND, 50% en VOO, 20% en VGT y $100,000)
+
+- BND: $30,000
+- VOO: $50,000
+- VGT: $20,000
+- Portafolio total: $100,000
+- Edad: 30 años
+
+Opción agresiva: (20% en BND, 40% en VOO, 40% en VGT y $100,000)
+
+- BND: $20,000
+- VOO: $40,000
+- BGT: $40,000
+- Portafolio total: $100,000
+- Edad: 30 años
+
+La idea es que conforme tu edad va avanzando, destines *más* dinero a BND o CETES y *menos* a acciones. Esto reduce el riesgo de cuando quieras retirar dinero.
+
+Esos son los activos que yo te recomiendo que utilices para tu retiro. Es una estrategia extremadamente sencilla donde cada mes solo depositas dinero y lo distribuyes en los activos correspondientes para mantener los porcentajes que defines al inicio de tu plan. No son los únicos que existen, puedes usar los que más quieras.
+
+Consejos para obtener los mejores resultados:
+
+- Cada mes compra los activos que definiste en tu plan sin importar el precio de mercado.
+- **Nunca** vendas tus activos antes de tiempo. Mientras no vendas, no pagas impuestos, no importa que tengas tus acciones por 40 años. Por eso es *sumamente importante no vender hasta que ya te vayas a retirar*.
+- Trata de mantener por lo menos el 60% de tu portafolio en acciones, de lo contrario el rendimiento va a ser muy bajo y tu dinero te va a durar menos tiempo.
+- Realiza aportaciones mensuales a tu portafolio. Yo te recomendaría por lo menos el 15% de tus ingresos para tu retiro.
