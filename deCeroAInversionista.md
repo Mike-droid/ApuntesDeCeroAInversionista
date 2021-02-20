@@ -819,3 +819,478 @@ Wortev Capital es una aceleradora de negocios que se dedica a impulsar a pequeñ
 El capital lo recaudan por medio de inversionistas como tú, a cambio ofrecen un rendimiento de 24% al año con pagos mensuales de 2% con una inversión mínima de $10,000 a un plazo fijo de 12 meses y no cobran comisiones.
 
 Una vez concluidos los 12 meses tienes la opción de retirar el capital inicial o de reinvertir durante otros 12 meses.
+
+## Capítulo 11: Instrumentos de renta variable
+
+Aquí no hay manera de saber cuánto vas a ganar exactamente. Usualmente el riesgo es mayor y los rendimientos también pueden ser mayores.
+
+### Fondos de Inversión
+
+Es un instrumento financiero que junta el dinero de muchas personas y alguien que se conoce como *el gestor del fondo*, que se supone es un experto en finanzas, se encargará de administrar ese dinero.
+
+Para invertir en un fondo de inversión debes comprar una acción de ese fondo, por lo cual vas a ser dueño de una parte del fondo.
+
+El gestor del fondo te cobrará una comisión por manejar tu dinero y además de esto te cobrarán comisiones por el manejo de tu cuenta.
+
+En total pagarás en promedio entre 0.5% y 3% de lo que inviertas al año. Independientemente de el fondo gana o pierde dinero, *tendrás que pagar las comisiones*.
+
+Existen 2 tipos de documentos que **siempre debes leer antes de invertir en cualquier fondo de inversión**.
+
+1. En México se conoce como "Propescto de información al público inversionista. En Estados Unidos se conoce como "Prospectus".
+2. "Documento clave" en México o "Summary prospectus" en Estados Unidos.
+
+De manera general, los fondos de inversión usualmente cuentan con alta liquidez.
+
+#### Ventajas
+
+- Te ayudarán a diversificar tus inversiones
+- Tu dinero va a ser manejado por un experto en finanzas
+- No tendrás que preocuparte por andar investigando activos y adquirirlos por tu cuenta
+- Existen miles de fondos de inversión diferentes
+
+#### Desventajas
+
+- Te van a cobrar comisiones independientemente de si el fondo gana o pierde dinero.
+- Los montos requeridos para empezar a invertir en un fondo de inversión a través de un banco son elevados
+
+#### Consejos para elegir fondos de inversión
+
+Antes que nada, tendrás que definir tus objetivos.
+
+- ¿Por cuánto tiempo planeas invertir ese dinero?
+- ¿Qué tanto riesgo estás dispuesto a correr? ¿Quieres algo más seguro con bajo rendimiento o más arriesgado pero con mayores rendimientos?
+
+Para buscar fondos de inversión que se ajusten a tus necesidades, recomeindo que utilices [Morning Star México](www.morningstar.com.mx) o si prefieres ver a nivel internacional usa [Morning Star](www.morningstar.com) (esta última está en inglés).
+
+#### Puntos que debes evaluar en un fondo de inversión
+
+- Política de inversión del fondo: Asegúrate que el fondo invierta en los activos que buscas y que su objetivo de rentabilidad cumpla con tus expectativas.
+- Perfil de riesgo: Puede ser conservador, moderado o agresivo. Verifica que este perfil sea similar a la postura que tú tienes sobre el riesgo.
+- Duración recomendada de la inversión: Revisa que en verdad puedas mantener du dinero invertido en el fondo por el periodo de tiempo que recomienda.
+- Liquidez: Asegúrate de conocer cuánto tiempo tardarías en recibir tu dinero en caso de que necesitaras retirarlo y que este sea un plazo que estés dispuesto a esperar.
+- Rendimientos pasados: Si el fondo dio buenos rendimientos en años pasados entonces es bueno. Hay que recordar que **buenos rendimientos en el pasado NO garantiza éxito en el futuro**.
+- Comisiones: Esto es muy importante ya que a fin de cuentas tu rendimiento total va a ser lo que gane el fondo menos lo que te cobren de comisiones. Investiga cuánto te van a cobrar.
+- Inversión mínima: Asegúrate de contar con suficiente dinero para poder cumplir con el monto requerido.
+
+¿Cómo puedes invertir entonces en un fondo de inversión?
+
+La primera opción es un banco. Es importante que te asegures que la organización con la que quieras adquirir el fondo de inversión se encuentre regulada por la autoridad correspondiente en el país donde opere.
+
+Debes tener el conocimiento y estar dispuesto a dedicar el tiempo necesario.
+
+Considero que a menos que logres encontrar un fondo de inversión que te dé mejores rendimientos que un ETF después de descontar todas las comisiones, probablemente vas a obtener mejores resultados si tan solo compraras el ETF.
+
+Los fondos de inversión son los que más cobran comisiones ya que los gestores del fondo lo deben administrar activamente.
+
+El ETF solo sigue a un índice y cotiza directamente en la bolsa de valores como si fuera un acción, lo que hace que las comisiones sean mucho menores.
+
+[Video tutorial sobre los fondos de inversión](https://omareducacionfinanciera.com/fondos-de-inversion)
+
+### Afores
+
+"Administradora de Fondos para el Retiro", son instituciones financieras mexicanas privadas creadas en 1997, se encargan de manejar los fondos de retiro y ahorro de los mexicanos.
+
+Su funcionamiento se encuentra regulado por la Comisión Nacional del Sistema de Ahorro para el Retiro (CONSAR) y es autorizado por la Secretaría de Hacienda y Crédito Público (SHCP).
+
+Si trabajas de manera formal como un asalariado entonces es muy probable que ya cuentes con una AFORE aunque no lo sepas.
+
+Cada mes recibes en tu AFORE el 6.5% de tu salario base de cotización ante el Instituto Mexicano del Seguro Social. Es este 6.5% tu patrón aporta un 5.15%, el gobierno te da el 0.225% y a ti te quitan el 1.125% de tu sueldo de manera obligatoria.
+
+Las AFORES son fondos de inversión.
+
+Todo el dinero que generen incluyendo las ganancias te lo van a entregar hasta que cumplas 65 años, lo cual se llama retiro por vejez. También te lo pueden dar si tienes entre 60 y 64 años, te has quedado desempleado y ya no consigues trabajo, siempre y cuando cumplas con ciertos criterios.
+
+Sobre este dinero que se aporta a tu AFORE de manera obligatoria, lo único que puedes hacer para mejorar los rendimientos es seleccionar la AFORE en la que quieres estar.
+
+Para esto te recomiendo que busques el Indicador de Rendimiento Neto (IRN) [en esta página](https://www.gob.mx/consar/articulos/indicador-de-rendimiento-neto)
+
+SURA, Profuturo y PensionISSSTE ofrecen los mejores rendimientos.
+
+Recuerda que **esto puede cambiar con el tiempo**, así que revisa constatamente las tablas.
+
+También tienes la opción de hacer aportaciones voluntarias a tu AFORE las cuales puedes deducir de impuestos. De hecho *si eres trabajador independiente, esta es la única manera de tener dinero en tu AFORE*.
+
+De acuerdo al artículo 151 de la ley del impuesto sobre la renta, la cantidad máxima que puedes deducir es el 10% de tus ingresos anuales con un máximo de 5 UMAs, alrededor de $158,000MXN en 2020. Si quieres ahorrar más, *no vale la pena* porque no te vas a ahorrar impuestos.
+
+Dependiendo de lo que ganes, es el impuesto que debes pagar, en el peor de los casos **puede llegar hasta 35% de impuesto**.Mientras más ganes, más atractiva es la aportación adicional a la AFORE por el impuesto que te ahorras.
+
+Existen muchas maneras de ganar más dinero que solo invirtiendo en la AFORE.
+
+[Calculadora de inversiones](https://calculadora.omareducacionfinanciera.com)
+
+Las AFORES *no son la mejor inversión*. Están hechas para personas que *no tienen conocimiento sobre inversiones y que no quieren aprender*, es simplemente algo diseñado para que por lo menos todos tengan algo de dinero en su jubilación.
+
+Sin duda alguna los resultados de las AFORES son **mediocres** comparado a otras alternativas de inversión. Lo que yo te recomiendo es que tomes el control sobre tu dinero para que puedas gestionarlo por ti mismo, nadie lo va a cuidar mejor que tú.
+
+Lo ideal es que busques la manera de pagar la menor cantidad de impuestos posbiles, encontrar los rendimientos más elevados y hacer aportaciones constantes a tus inversiones, esto combinado con el interés compuesto ***es la fórmula mágica para que multipliques tu dinero lo más rápido posible de manera semi-pasiva con las inversiones***.
+
+[Video tutorial de AFORE](https://omareducacionfinanciera.com/afores-a-detalle)
+
+### Bolsa de valores 💲
+
+La bolsa de valores es un mercado que funciona como cualquier otro. Hay personas que venden y hay personas que compran. Se hace de manera virtual por medio de un intermediario que se llama broker.
+
+Para entender lo que es una acción. imagina a una empresa como si fuera un pizza 🍕, si la empresa quiere dinero para seguir creciendo, entonces lo que puede hacer es dividirse en varias rebanadas y vender estas a quien quiera comprarlas.
+
+Vamos a suponer que Facebook quiere dinero para seguir creciendo, entonces vende 10 rebanadas a $1USD c/u.
+
+Como la pizza es muy popular, hay mucha gente dispuesta a comprar estas rebanadas, así que, en cuestión de minutos, Facebook ya vendió 10 rebanadas y ahora tiene $10 que puede invertir en su empresa para hacerla crecer.
+
+Por otro lado, las personas que compraron una rebanada ahora son los dueños de esa aprte de la pizza. Si alguien hubiera comprado 5 rebanadas, entonces sería dueño de la mitad de la pizza.
+
+Lo mismo pasa en la bolsa de valores, la pizza es una empresa que quiere dinero y se vende al público en general, a esto se le llama salir a la bolsa u *oferta pública inicial (Initial Public Offering en inglés)*.
+
+¿Cómo se gana dinero en la bolsa?
+
+Sigamos con el ejemplo de Facebook. Digamos que logró triplicar sus ganancias, ahora la gente con mayor razón quiere comprar una rebanada de la empresa, pero Facebook no vende sus rebanadas porque sabe que hay mucha *demanda* y el valor va a seguir subiendo. Entonces la gente empieza a ofrecer $2, $3, $4 y hasta $5 por una sola rebanada.
+
+Entonces uno de los primeros accionistas (los que compran acciones) decide vender su rebanada porque $5 le parece buen precio. Entonces él o ella originalmente compró la acción por $1 y la vendió por $5, por lo que se llevó $4 de ganancia o un 400% de rendimiento.
+
+Ahora imagina que le fue muy mal a Facebook, y bajaron un 50% sus ganancias. Las personas que compraron a $5 su rebanada ahora la tuvieron que vender a un precio menor, $2, perdieron $3 o un 60% de su inverión.
+
+La moraleja de esta historia es que para que se haga un intercambio se requiere que el comprador y el vendedor se pongan de acuerdo con el precio, exactamente así es como funciona la bolsa de valores.
+
+*Siempre existe el riesgo* de perder dinero si tus acciones bajan de precio, aunque esta pérdida no se hace efectiva mientras no vendas tus acciones.
+
+Por ejemplo, si tenías acciones de Facebook a 5$ y luego bajó a $2, mientras tú no vendas no pierdes nada, es posible que, si esperas, quizás la acción vuelva a subir de $2 a 5$, de tal manera que realmente no perdiste dinero.
+
+**No dejes que esto te asuste**, si tomas las decisiones correctas al haber investigado a fondo una empresa antes de comprarla, es muy probable que logres obtener buenas ganancias. Hay un sin fin de factores que pueden afectar el precio de una acción y en ocasiones es imposible explicar porque sube o baja su precio.
+
+El precio de cada acción es simplemente lo que alguien está dispuesto a pagar por ella. El secreto para ganar dinero es *comprar barato y vender caro*. Suena fácil, pero no lo es.
+
+[Videotutorial de la bolsa de valores](https://omareducacionfinanciera.com/bolsa-de-valores)
+
+### ETF's (Exchange-Traded Funds)
+
+Estos son los mejores instrumentos para invertir en la bolsa de valores. Un ETF es un fondo de inversión que se vende en la bolsa de valores como si fuera una acción.
+
+Imagina que tienes varias canastas y tienes una cartera de huevos 🥚🥚 que debes poner en ellas, **nunca debes poner todos tus huevos en una sola canasta** porque si se te cae vas a perder todo lo que tienes. Lo correcto es *diversificar* para reducir el riesgo, entonces se recomeinda que distribuyas tu capital en diferentes activos.
+
+Un ETF te permite hace esto ya que usualmente siguen a un índice, por ejemplo al índice más popular del mundo: El S&P 500 que tiene a las 500 empresas más grandes de Estados Unidos que cotizan en la bolsa.
+
+Existen muchos ETF's a distintos precios y que siguen diferentes índices, te recomiendo que uses [esta lista](https://etdb.com/compare/volume) para explorar las distintas opciones.
+
+Ventajas de los ETF's:
+
+- Te permite diversificar tus inversiones para reducir el riesgo.
+- Alta liquidez.
+- Algunos ETF's te pueden pagar dividendos, usualmente cada 3 meses.
+- Te permite acceder a mercados a los que tal vez no tengas acceso con acciones individuales.
+- Las comisiones que cobran son extremadamente bajas.
+- Este instrumento no requiere de tu tiempo, solamente haces la investigación de cuál quieres una vez, lo compras y ya no debes hacer nada más, solo te queda esperar para obtener los rendimientos.
+- Vas a obtener mayores rendimientos si compras un ETF a que compraras un fondo de inversión que va a invertir en lo mismo.
+
+Desventajas de los ETF's:
+
+- Es probable que el broker te cobre una comisión por hacer la compra.
+- Estás limitado al rendimiento que te den los índicies. (Si tú eliges las acciones de manera individual corres más riesgo pero tus ganancias también pueden ser mayores).
+
+¿Para quién son los ETF's?
+
+Para personas que no tienen mucho conocimiento sobre la bolsa de valores y no quieren aprender o no tienen el tiempo para hacerlo, solo buscan poner el dinero en algo y obtener los rendimientos.
+
+Tambie´n son buena opción si buscas diversificar tus inversiones. Definitivamente creo que los ETf's son mucho mejor opción que los fondos de inversión.
+
+¿Cómo puedo comprar ETF's?
+
+Esto lo vas a hacer por medio de un broker o casa de bolsa como ser Kuspit, GBMHomeBroker, Firstrade, etc. Para saber si tienen el ETF que buscas, basta con que les llames y preguntes directamente si lo tienen.
+
+[Videotutorial sobre ETF's](https://omareducacionfinanciera.com/fondos-cotizados/)
+
+### Invertir en dóalres (USD) 💱
+
+El dólar sin duda es una de las monedas más estables que existen y probablemente la más popular.
+
+El tipo de cambio peso-dólar de los últimos 30 años pasó de: en 1990 costaba alrededor de $2.70 y en 2020 costaba alrededor de $20. Esto es un incremento de 600% en 30 años.
+
+2 alternativas para invertir en instrumentos dolarizados (que muestran el dinero en la moneda del dólar):
+
+1. VOO, es un ETF que sigue al índice S&P 500, la empresa que lo gestiona se llama Vanguard. Vanguard solo te cobrará una comisión de 0.03% al año.
+2. VTI, es un ETF que sigue a todas las empresas de Estados Unidos que cotizan en la bolsa (son más de 3600). Las comisiones son también de 0.03% al año.
+
+Recomendaciones importantes:
+
+- Invierte en VOO o VTI a largo plazo, por lo menos 5-10 años para que puedas ver buenos resultados.
+- Es recomendable que hagas aportaciones cada vez que te sea posible, en cuanto juntes el monto mínimo para comprar un ETF te recomiendo que lo hagas.
+- Si planeas invertir una gran suma de dinero, hazlo por etapas. Invierte una cuarta parte durante 4 meses.
+- **No te asustes si los precios bajan o hay una recesión**, sobre todo ***NO VENDAS CUANDO LOS PRECIOS BAJEN***, la única manera en la que puedes perder dinero con esta estrategía es si vendes a un menor precio. Recuerda que el valor del ETF siempre volverá a subir a menos que la economía de EEUU colapse.
+- Lo único que debes hacer es comprar el ETF, espera mínimo 5-10 años para luego vender. No requiere que lo estés revisando a cada rato.
+- No pagarás impuestos hasta que vendas el ETF (te recomiendo ver a un contador para pagar la menor cantidad de impuestos posible).
+
+[Videotutorial para invertir en dólares con ETF](https://omareducacionfinanciera.com/invertir-en-dolares)
+
+### Bolsa de valores para principiantes
+
+Cualquier persona puede invertir en la bolsa de valores, no necesitas tener estudios o conocimientos en finanzas ni contar con mucho dinero, tampoco necesitas a alguien que te dé asesoría financiera ya que todo esto lo podrás hacer por ti mismo si le dedicas el tiempo para aprender.
+
+Como principiante en la bolsa de valores lo más probable es que termines ganando en promedio alrededor de un 7% a 20% al año si es que inviertes a largo plazo y te va bien.
+
+Invertir en la bolsa tiene un riesgo elevado y es problable que pierdas tu dinero si tomas malas decisiones. Por eso **nunca inviertas dinero que no puedas darte el lujo de perder.**
+
+Hoy en día en México puedes invertir en la bolsa de valores desde $100MXN.
+
+Para invertir en la bolsa de valores, es necesario que lo hagas por medio de un intermediario, el cual se conoce como *broker* o *casa de bolsa*.
+
+En México existen:
+
+- [Kuspit](https://omareducacionfinanciera.com/kuspit) , puedes empezar con $100MXN, aunque cobran comisiones pero es buena opción para principiantes.
+- Si ya cuentas con un poco de conocimiento, recomiendo la mejor opción en México, [GBMHomeBroker](https://omareducacionfinanciera.com/bgm) , aquí puedes abrir una cuenta con $1000MXN.
+
+En Estados Unidos:
+
+- [Robinhood](https://omareducacionfinanciera.com/robinhood) , puedes empezar con $1USD, es totalmente gratis y la plataforma está diseñada para principiantes.
+
+Si estás en cualquier otro país, existe una opción internacional, [Firstrade](https://omareducacionfinanciera.com/firstrade). Puedes invertir desde $1USD, pero ten en cuenta que es posible que para hacer la transferencia internacional los bancos te cobren una comisión de entre $30USD y $50USD, te recomiendo que por lo menos comiences con $1000USD.
+
+Las 2 formas más populares para ganar dinero en la bolsa de valores:
+
+La primera es comprando valores: Principalmente acciones o ETF's para luego venderlos a un precio mayor. Aquí no hay límite en lo que puedes ganar. Algunos valores te pagan una cierta cantidad al año por simplemente tenerlas, a esto se le conoce como *dividendo* y usualmente puedes esperar entre 0% y 5% de lo que invertiste al año en dividendos. La idea al invertir en la bolsa de valores consiste en comprar acciones que crees que en el futuro van a valer mucho más porque a la empresa le va a ir muy bien y seguirá creciendo. Obviamente existe el riesgo y puede que a la empresa le vaya mal. Solo pierdes tu dinero si vendes tus acciones, puedes esperar y es probable que la empresa se recupere. En el peor de los casos, la empresa se declararía en bancarrota y aquí sí puedes perder el 100% de tu inversión. El precio de la acción va dependiendo de la oferta y demanda. Puedes usar el *analisis fundamental* para estudiar el comportamiento que tendrán las acciones.
+
+Revisa los 3 estados financieros de las empresas:
+
+- Estado de resultados o income statement
+- Balance general o balace sheet
+- Estado de flujo de caja o cash flow statement
+
+Revisa que las ventas y las ganancias crezcan año con año, que tengan pocas deudas o mejor aún, ninguna deuda, que tengan bastante efectivo disponible.
+
+Que inviertan en el desarrollo de nuevos productos y en mejorar los productos existentes, que si tienen deudas, destinen dinero a pagarlas, que sus operaciones generen ganancias. Esta métrica se conoce como *operating income* y lo ideal es que sea muy positivo.
+
+También puedes leer noticias para entender mejor el panorama de la situación. Puedes usar [Google](https://www.google.com) , [Finance Yahoo](https://finance.yahoo.com) o [Morning Star](https://morningstar.com).
+
+Algunas métricas a tomar en cuenta son:
+
+- P/E ratio
+- Forward P/E ratio
+- Price/Sales ratio
+- Capitalización bursátil
+
+Compara estos valores con los valores de otras empresas similares.
+No compares empresas de distintos sectores. Puedes usar [Seeking Alpha](https://seekingalpha.com/)
+
+Lo ideal es que siempre inviertas pensando en dónde ves a la empresa en 3 a 5 años.
+
+Hay otra manera de tratar de "predecir" el precio de las acciones, usando el *análisis técnico*, pero esto no es para principiantes. Una vez que domines el análisis fundamental, puedes probar el análisis técnico.
+
+Recursos adicionales:
+
+- [Cómo leer un estado de resultados](https://omareducacionfinanciera.com/estado-de-resultados/)
+- [Cómo leer un balance general](https://omareducacionfinanciera.com/balance-general/)
+- [Cómo leer un estado de flujo de caja](https://omareducacionfinanciera.com/cashflow-statement/)
+- [Sitio web para analizar acciones](https://omareducacionfinanciera.com/sitios-para-analizar-acciones/)
+- [Análisis fundamental de empresas petroleras](https://omareducacionfinanciera.com/empresas-de-petroleo/)
+- [Análisis fundamental de Disney](https://omareducacionfinanciera.com/invertir-en-disney)
+- [Dividendos en bolsa de valores](https://omareducacionfinanciera.com/dividendos/)
+- [Cómo analizar acciones rápido](https://omareducacionfinanciera.com/como-analizar-acciones/)
+- [Análisis fundamental de Uber](https://omareducacionfinanciera.com/invertir-en-uber)
+- [Más de 45 artículos que he escrito sobre la bolsa de valores](https://omareducacionfinanciera.com/bolsa-de-valores/)
+
+### Bolsa Mexicana vs Bolsa de Estados Unidos
+
+¿En dónde me conviene más invertir? Veamos las ventajas y desventajas de cada una.
+
+En México existen 2 instituciones que se dedican a crear el ambiente necesario para que una empresa pueda vender sus acciones y recaudar capital:
+
+1. La Bolsa Mexicana de Valores (BMV) que solo cuenta con alrededor de 150 empresas listadas.
+2. La Bolsa Institucional de Valores (BIVA) que fue creada en Julio de 2018 y a Junio de 2020, ninguna empresa ha sido listada.
+
+En Estados Unidos existen muchas más bolsas de valores, las 3 principlaes son:
+
+1. New York Stock Exchange (NYSE).
+2. NASDAQ.
+3. American Stock Exchange (AMEX).
+
+En total el mercado de acciones en Estados Unidos cuenta con más de 3600 empresas listadas. Este es un punto a favor de EEUU ya que podrás encontrar muchas más alternativas para invertir y diversificar tu portafolio.
+
+Para medir el rendimiento de la bolsa mexicana de valores existe el Índice de Precios y Cotizaciones (IPC) que mide el rendimiento de las 35 empresas mexicanas más grandes que cotizan en la bolsa.
+
+Para medir el rendimiento de la bolsa de Estados Unidos hay un índice que se llama S&P 500 y mide el rendimiento de las 500 empresas más grandes de los EEUU.
+
+Comparando rendimientos del IPC vs S&P 500
+
+||3 años|5 años|10 años|15 años|
+|---|---|---|---|---|
+IPC|-0.13%|1.41%|3.98%|9.58%|
+S&P 500|26.13%|16.40%|16.09%|15.19%|
+
+Si comparamos los rendimientos promedio anuales del IPC con los del s&P 500 es evidente quien es el ganador.
+
+Gran parte de la economía mexicana depende de cómo le vaya a EEUU, aunque es importante mencionar que *si a México le va mal, no por eso a EEUU le va a ir mal*. Nosotros dependemos de ellos, pero ellos no dependen de nosotros. **Por eso es importante seguir de cerca a la economía de Estados Unidos**.
+
+Microsoft es la empresa más grande de EEUU, a Junio de 2020 está valuada en 1.5 trillones de dóalres ($1,500,000,000,000 USD). esto es más del triple de lo que valen todas las empresas listadas en la bolsa mexicana de valores que tienen un valor aproximadamente de $416,000,000,000 USD. En otras palabras *Microsoft vale más del triple que las 150 empresas públicas mexicanas combinadas*.
+
+Mi recomendación es que te mantengas alejado de invertir en empresas mexicanas de la bolsa de valores, de preferencia enfoca la mayoría de tus recursos a la bolsa de EEUU, vas a obtener mejores rendimientos en el largo plazo.
+
+Si decides comprar acciones individuales, entonces una buena manera de comparar tus resultados es contra estos índices, si logras obtener más que el S$P 500 entonces estarás haciendo muy buen trabajo como inversionista en la bolsa de valores.
+
+Si obtienes menos, entonces simplemente compra un ETF que siga al S&P 500 y te va a ir mejor sin poner tanto esfuerzo.
+
+¿Cómo invertir en la bolsa de Estados Unidos desde México?
+
+Con el Sistema Internacional de Cotizaciones (SIC). Es una herramienta diseñada para poder comprar instrumentos financieros internacionales como acciones y ETF's que no son de empresas mexicanas, pero se encuentran disponibles en la bolsa de valores de México.
+
+Si utilizas cualquier broker mexicano que tenga acceso al SIC, como Kuspit o GBMHomeBroker, vas a poder acceder a todas las empresas internacionales listadas en esta herramienta.
+
+Para poder consultar cuáles empresas se encuetran listadas [visita este enlace](https://www.bmv.com.mx/empresas-listadas)
+
+Es importante mencionar que el precio va a aparecer en pesos mexicanos dependiendo del tipo cambio peso-dólar. (Están dolarizados).
+
+¿Qué acciones deberías comprar? Esto depende de muchos factores mencionados anteriormente. Algunas recomendaciones adicionales:
+
+- Haz una lista de las empresas en las que te gustaría invertir. (Tienes que conocerla muy bien).
+- Investiga si es posible comprar acciones de esas empresas.
+- Consulta en [Finance Yahoo](https://finance.yahoo.com) a la empresa y lee sus *estados financieros*.
+- Busca la página de "investor relations".
+- Aquí vas a buscar 2 documentos, 10-K y 10-Q del periodo más reciente, son documentos que van de 200 a 100 o más páginas, los tienes que leer a detalle para *entender todo lo que pasa con la empresa.*
+- Reproduce las grabaciones de las últimas conferencias trimestrales donde reportan ganancias.
+- Busca en Google todas las noticias relacionadas con esa empresa para que tengas un mejor entendimiento de todo lo que sucede alrededor de ella.
+- Si después hacer todo lo anterior aún consideras que es una excelente opción para invertir, entonces busca qué precio tiene la acción y busca un indicador que se llama P/E, compáralo con el P/E de empresas del mismo sector.
+- Si este es muy elevado puede que la empresa esté muy cara y no sea buen momento para comprar, si es bajo entonces puede ser una excelente oportunidad de inversión.
+- **Nunca inviertas todo tu dinero en una sola empresa**. Busca que en todo momento tengas por lo menos entre 5 y 12 empresas, menos es muy arriesgado ya que casi no estás diversificado y más puede que se haga complicado darle seguimiento a cada una.
+
+Recuerda que como dicen dice Warren Buffet:
+> Es mucho mejor comprar una excelente empresa a un precio justo que una empresa mala a un excelente precio.
+
+[Videotutorial con más detalles para invertir en la bolsa de valores](https://omareducacionfinanciera.com/invertir-en-bolsa/)
+
+### El mejor broker para invertir en México en 2020
+
+2 brokers que son excelentes:
+
+#### Kuspit
+
+Esta plataforma está hecha paar inversionistas principiantes. Puedes abrir una cuenta con $100MXN, se encuentra regulada por la Comisión Nacional Bancaria y de Valores(CNBV).
+
+Ventajas de Kuspit:
+
+Hay una sección que se llama "Aprende" y te van a enseñar cómo funciona cada uno de los instrumentos que puedes comprar.
+
+Al abrir tu cuenta en Kuspit, te van a regalar $1,000,000 pesos virtuales para que pruebes su plataforma. Vas a tener la opción de operar como si lo estuvieras haciendo con dinero real para que pruebes antes de arriesgarte.
+
+Cuando estés listo/apara invertir, simplemente le transfieres dinero y podrás hacer tus inversiones por medio de tu computadora o celular.
+
+Desventajas de Kuspit:
+
+Las comisiones que te cobran son elevadas ya que vas a tener que pagar ***0.99% de tu portafolio al año por mantenimiento y 0.40% por cada compra y venta de acciones.***
+
+Por eso solo recomiendo que uses Kuspit para aprender. Puedes abrir una cuenta en Kuspit [con este enlace](https://omareducacionfinanciera.com/kuspit).
+
+[Videotutorial sobre kuspit](https://omareducacionfinanciera.com/invertir-en-kuspit/)
+
+[Análisis de los fondos de inversión de deuda en Kuspit](https://omareducacionfinanciera.com/kuspit-fondos-1)
+
+[Análisis de los fondos de inversión de acciones en Kuspit](https://omareducacionfinanciera.com/fondos-acciones-kuspit/)
+
+### GBMHomeBroker
+
+Puedes abrir una cuenta desde $1000MXN. También están regulada por la CNBV.
+
+Las comisiones son de 0.25% por cada compra y venta de acciones si inviertes menos de $1,000,000 y puede bajar hasta 0.10% con más de $10,000,000.
+
+Estos son los dos mejores brokers en México. Existen muchos otros, te invito a que investigues otras alternativas y formes tu propio juicio.
+
+Entonces el mejor broker para aprender es Kuspit y una vez que ya tienes buenos conocimientos puedes pasar a GBMHomeBorker.
+
+Aprende inglés, *tus finanzas te lo agradecerán*.
+
+### Cómo utilizar GBMHomeBroker
+
+Para registrarte debes crear una cuenta con un correo y contraseña, luego tendrás que verificar tu correo y deberás ingresar la siguiente información:
+
+- Tus datos personales
+- Domicilio
+- Actividad económica
+- Algunos documentos como tu identificación y comprobante de domicilio.
+
+Cualquier acción o ETF que sea de Estados Unidos se encuentra dolarizada, es decir, su valor depende del tipo de cambio peso-USD, si el dólar sube, tu inversión sube, si el dólar baja, tu inversión va a bajar. Es como si tu dinero estuviera en dólares pero te aparece en pesos mexicanos.
+
+Lo que te voy a recomendar es que solo compres instrumentos del SIC, específicamente de Estados Unidos ya que todos se encuentran dolarizados y te puedes beneficiar del tipo de cambio.
+
+Lo que funciona mejor al invertir en la bolsa de valores es tener una estrategia de inversión a largo plazo, comprar acciones que después de investigarlas consideras que en unos años van a estar mucho mejor y por ende vas a recibir ganancias.
+
+Si te interesa abrir una cuenta en GBMHomeBroker [puedes usar este enlace](https://omareducacionfinanciera.com/gbm/)
+
+[Videotutorial de GBMHomeBroker](https://omareducacionfinanciera.com/invertir-en-gbmhomebroker/)
+
+[Comparación entre Kuspit, GBMHomebroker y Firstrade](https://omareducacionfinanciera.com/mejor-broker-mexico-2020/)
+
+### Broker de Estados Unidos: Firstrade
+
+Cuando tengas experiencia inviertiendo en la bolsa de valores con brokers mexicanes y un capital de por lo menos $1000USD entonces puedes considerar moverte a un broker de EEUU como este.
+
+Firstrade fue fundado en 1985, tiene más de 30 años de experiencia y se encuentra regulado tanto por la Securities & Exchange Comission (SEC) como por la Financial Industry Regulatory Authority (FINRA). Estas son 2 de las organizaciones regulatorias más importantes de EEUU y probablemente del mundo.
+
+Con Firstrade podrás invertir en acciones, ETF's, fondo de inversión, bonos, certificados de depósito y opciones. Podrás abrir una cuenta internacional con ellos desde 154 países diferentes, incluyendo México.
+
+Razones por las que considero que es mucho mejor invertir en la bolsa de EEUU que cualquier otra:
+
+1. Gran variedad de opciones para invertir. Cuentan con más de 3600 acciones y más de 5000 ETF's disponibles.
+2. Además de acciones de EEUU, podrás encontrar acciones de empresas internacionales como países de China, etc.
+3. Tu dinero estará protegido por la Securities Investor Protection Corporation (SIPC) en caso de que el broker con el que operas se declare en bancarrota, incluyendo Firstrade.
+4. Este es un fondo independiente del gobierno que te asegura un monto de hasta $500,000USD que tengas en acciones con un máximo de $250,000USD en efectivo. Es decir, mientras tengas menos de $500,000USD, no existe riesgo de perder tu dinero si el broker quiebra.
+5. Lo mejor es que no te cobran comisiones, no hay cuotas de mantenimiento, ni montos mínimos de inversión.
+6. Beneficios fiscales. Al invertir en EEUU vas a llenar una forma que se llama W-8BEN y de esta manera no vas a tener que pagar impuestos. Solo te retienen el 10% sobre los dividendos que recibas. (No quiere decir que no vas a pagar impuestos, solamente no en EEUU, pero tendrás que pagarlos en tu país de origen).
+7. Todas las empresas se encuentran estrictamente regulada por la SEC, la mayoría de la información operativa y financiera de cada empresa que cotiza en la bolsa es completamente pública. Esto hace que toda la información sea muy transparente.
+
+Para abrir una cuenta, el proceso es el siguiente:
+
+1. Debes llenar una aplicación completamente en línea, vas a tener que mandar los documentos que te soliciten que incluyen la firma de un contrato, la forma W.8BEN y una foto de tu pasaporte.
+2. Haces una transferencia bancaria para comenzar a invertir. La manera más rápida fuera de EEUU es por medio de una transferencia internacional o wire transfer. Esto puede tardar 1 o 2 días hábiles y el banco puede cobrar una comisión de entre $30 y $50USD.
+
+### Abrir una cuenta en Firstrade desde México
+
+Primero debes [entrar a este enlace](https://omareducacionfinanciera.com/firstrade), seleccionar "Get your free stock" y presionar el botón que dice "Open International Account".
+
+La primera vez que inicies sesión te aparecerá un aviso, ***es muy importante que lo leas con calma.*** Hasta abajo donde veas un cuadro amarillo tendrás que responder de la siguiente manera:
+
+Le pones "si" al primero y lo demás lo dejas en "no", luego debes hacer clic en el botón que dice "I agree".
+
+[Videotutorial explicando el proceso para abrir una cuenta en Firstrade](https://omareducacionfinanciera.com/invertir-con-firstrade/)
+
+[Videotutorial de la plataforma Firstrade](https://omareducacionfinanciera.com/tutorial-firstrade-plataforma/)
+
+### FIBRAS
+
+Fideicomiso de Infraestructura y Bienes Raíces, en inglés las puedes encontrar como REITS o Real State Investment Trust.
+
+Son carteras de propiedades como pueden ser casas, centros comerciales, almacenes, aeropuertos, cualquier tipo de propiedad inmobiliaria que te puedas imaginar.
+
+Las ganancias vienen principalmente de la renta que generan estos activos, adicional a esto vas a obtener rendimientos por la plusvalía que obtengan.
+
+Las FIBRAS cotizan en la bolsa de valores.
+
+Ventajas de las FIBRAS contra una inversión tradicional en una propiedad:
+
+- Requieres poco capital, con $100MXN puedes abrir una cuenta.
+- Vas a obtener buenos rendimientos comparables y muchas veces mayores a los que obtendrías al adquirir una propiedad. Las FIBRAS están obligadas a pagar mínimo el 95% de sus ganancias de vuelta a sus inversionistas. Este es un pago cada cierto periodo de tiempo, mínimo 1 vez al año. Lo que sea de utilidades puede estar entre un 2% y 10% al año.
+- Puedes obtener ganancias por el incremento en el valor de los títulos como en cualquier acción tradicional (pero también puedes tener pérdidas).
+- Diversificación. Como este instrumento cuenta con múltiples propiedades el riesgo se distribuye en todas ellas.
+- Hay FIBRAS que se especializan en sectores específicos, así podrás adquirir únicamente el sector que te interesa.
+- Es de alta liquidez. Si requieres parte del dinero que tienes invertido, puedes sin problema vender una fracción de tus títulos.
+- Beneficios fiscalos, no te cobra impuestos por las ganancias de la plusvalía, PERO sí por las utilidades que recibas.
+- Toda la información de las FIBRAS es muy transparente, puedes ingresar a [Fibra MTY](https://fibramty.com).
+- Las FIBRAS son administradas por profesionales.
+
+Desventajas de las FIBRAS contra una inversión tradicional en una propiedad:
+
+- Ya que un profesional hará todo por ti, vas a tener que pagar costos administrativos.
+- Como cotizan en la bolsa de valores, están expuestas a la volatilidad de la misma.
+- Como reparten el 95% de las ganancias de vuelta a los inversionistas, les queda muy poco dinero para reinvertir, por lo que su crecimiento en el mejor caso va a ser moderado. [Aquí puedes consultar algunas de las FIBRAS que existen en México](https://inmobiliare.com/cual-es-la-situacion-actual-de-los-fibras-en-mexico).
+
+[Videotutorial hablando a detalle sobre las FIBRAS](https://omareducacionfinanciera.com/invertir-en-fibras)
+
+### Criptomonedas
+
+Este es un instrumento de alto riesgo que más que una inversión es una apuesta. Realmente no te recomiendo destinar más del 5% de tu portafolio a este tipo de activos.
+
+La idea consiste en adquirir alguna criptomoneda que esperas que en el futuro alguien más esté dispuesto a comprar un precio mayor al que tú pagaste, así es como ganas dinero.
+
+La volatilidad en este tipo de instrumento es extremadamente elevada. Tus inversiones pueden tener fluctuaciones de 1% a 5% en un solo día.
+
+La criptomoneda más popular se llama Bitcoin, fue creada en 2009 y todo se hace de manera digital, utiliza una tecnología avanzada llamada blockchain.
+
+Los rendimientos son muy variables, puedes ganar mucho dinero o perderlo en la misma proporción.
+
+[Aquí puedes consultar las criptomonedas más populares por su capitalización bursátil](https://coinmarketcap.com/)
+
+Si deseas invertir en criptomonedas lo puedes hacer por una plataforma que se llama Bitso, [en este enlace puedes abrir una cuenta](https://omareducacionfinanciera.com/bitso)
