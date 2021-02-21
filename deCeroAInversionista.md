@@ -1425,3 +1425,47 @@ Este es **el error más peligroso de todos**. Si a alguien le ha funcionado bien
 Antes de invertir en cualquier instrumento financiero **asegúrate de investigar a detalle el tipo de inversión**.
 
 [Videotutorial para no caer en estafas](https://omareducacionfinanciera.com/estafas-comunes)
+
+## Capítulo 14: Creando un portafolio bien diversificado
+
+El portafolio de cada persona va a ser bastante diferente ya que no todos tienen los mismos objetivos. Te voy a dar 3 recomendaciones para 3 tipos de perfiles de inversionista y de ahí puedes ajustar los porcentajes:
+
+- Perfil conservador (Bajo riesgo, bajos rendimientos)
+  - 80% Instrumentos de renta Fija
+    - 40% CETES
+    - 20% SOFIPOS
+    - 10% Crowfunding inmobiliario
+    - 10% Crowfunding de copropiedad
+  - 20% Instrumentos de variable
+    - 20% ETF's
+- Perfil moderado (Moderado riesgo, moderados rendimientos)
+  - 60% Instrumentos de renta fija
+    - 20% CETES
+    - 20% SOFIPOS
+    - 10% Crowdfunding inmobiliario
+    - 10% Crowdfunding de copropiedad
+  - 40% Instrumentos de renta variable
+    - 40% ETF's
+- Perfil agresivo (Alto riesgo, altos rendimientos)
+  - 40% Instrumentos de renta fija
+    - 10% CETES
+    - 10% SOFIPOS
+    - 10% Crowfunding inmobiliario
+    - 10% Préstamos a personas/empresas
+  - 60% Instrumentos de renta variable
+    - 10% Aceladora de negocios
+    - 30% ETF's
+    - 20% Acciones
+- Perfil ultra-agresivo (Extremo riesgo, altos rendimientos)
+  - 20% Instrumentos de renta fija
+    - 10% Crowfunding inmobiliario
+    - 10% Préstamos a personas/empresas
+  - 80% Instrumentos de renta variable
+    - 10% Aceladora de negocios
+    - 70% Acciones
+
+No hay portafolio que sea mejor que otro, lo más importante es que lo adaptes a tus necesidades.
+
+Estas son solo recomendaciones generales que pueden o no funcionarte. Te recomiendo que pruebes los distintos instrumentos para que identifiques con los que te sientas cómodo.
+
+[Video donde explico mi portafolio de más de $1,000,000MXN a detalle](https://youtu.be/bUhk9dLfryo)
