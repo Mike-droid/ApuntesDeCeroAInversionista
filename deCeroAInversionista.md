@@ -1469,3 +1469,159 @@ No hay portafolio que sea mejor que otro, lo más importante es que lo adaptes a
 Estas son solo recomendaciones generales que pueden o no funcionarte. Te recomiendo que pruebes los distintos instrumentos para que identifiques con los que te sientas cómodo.
 
 [Video donde explico mi portafolio de más de $1,000,000MXN a detalle](https://youtu.be/bUhk9dLfryo)
+
+## Capítulo 15: Impuestos en las inversiones
+
+El hecho de invertir nos genera ganancias que modifican nuestro patrimonio de manera positiva. La ley dice que sobre estos incrementos en nuestro patrimonio debemos pagar impuestos.
+
+Para cada tipo de inversión, esto puede ser un poco diferente.
+
+Este es un tema muy complejo y realmente te sugiero que vayas con un contador fiscal para que te ayude con todo el tema de los impuestos.
+
+### Sistema financiero
+
+En el caso de las inversiones en el sistema financiero, te van a hacer una retención de *1.45% sobre el capital invertido.*
+
+Inversiones que forman parte del sistema financiero:
+
+- CETES
+- SOFIPOS
+- CEDE
+- Fondos de inversión
+- SOFOMS
+- M2Crowd
+
+### ¿Por qué tengo que pagar impuestos?
+
+Pagamos impuestos en función de nuestra residencia o si nuestra fuente de riqueza proviene del territorio nacional.
+
+### ¿Cómo pagar los impuestos y cuánto pagar?
+
+Cuando inviertes tu capital, la inversión te genera una tasa de interés y finalmente tienes un rendimiento en **términos brutos** ya que falta quitarle el impuesto. Es por esta razón que el sistema financiero te retiene el 1.45% sobre el capital invertido.
+
+### Pagos provisionales
+
+El sistema financiero está realizando a tu nombre pagos provisionales. Esto quiere decir que tu dinero no se queda así, luego lo vas a utilizar, tanto los intereses para tus ingresos del año y la retención como parte del impuesto anual.
+
+### Una retención temporal del 1.45% sobre el capital
+
+Cuando te retienen el 1.45% del capital eso es una retención temporal ya que en el momento que se haga la declaración anual se hará un ajuste. Dicho ajuste se basa en la tasa de impuesto que vas a pagar. Es decir, vas a pagar los impuestos dependiendo de los ingresos acumulados que tengas.
+
+### ¿Cómo puedo presentar la declaración anual y qué documentos necesito para hacerla?
+
+La empresa del sistema financiero o su patrón deben reportar correctamente la información a través de sus propias declaraciones. Si lo hace, la información en sí ya va a estar precargada en el SAT. Pero si no es así, es recomendable que consultes a un contador ya que requieres revisar la información.
+
+### ¿Qué me puede pasar si no hago la declaración anual?
+
+***Te van a cobrar una multa***.
+
+### Si voy con un contador, ¿qué documentos me pedirá para estar en orden?
+
+RFC, firma electrónica y contraseña del SAT.
+
+### ¿Qué reporta la declaración anual?
+
+El interés real, no el interés nominal. El interés real es el que estuvo por arriba de la inflación. En cambio el interés nominal es lo que ganaste incluyendo la inflación. La ley en ese sentido es justa.
+
+### ¿Cómo calculo la inflación?
+
+La mecánica del cálculo la establece la ley.
+
+### ¿Cómo se calcula el factor de inflación?
+
+A través de los índices nacionales de precios al consumidor.
+
+### ¿Me conviene hacer la declaración en el SAT por mí mismo?
+
+No te recomiendo que lo hagas. Si declaras menos de lo que ganas, el SAT se podría enterar. Ellos tienen acceso a prácticamente toda la información tanto de nuestros sueldos como de nuestras retenciones. También tienen toda la información de nuestras cuentas bancarias e inversiones.
+
+### ¿Cuánto debería pagarle a un contador?
+
+En el caso de un asaliado con inversiones por una declaración anual bien presentada solo tendría que pagar entre $1000MXN y $2000MXN.
+
+### Si el dinero que está en una plataforma nunca lo retiro y lo sigo reinvirtiendo, ¿de todas maneras tengo que pagar impuestos?
+
+***Sí.*** La ley establece que tu ingreso por intereses se genera en el momento en que lo devengues. Eso quiere decir que el dinero ya es tuyo al momento de recibirlo en la plataforma. No importa que lo retires o no.
+
+### Las comisiones que me cobra una plataforma se pueden deducir de impuestos?
+
+No, no es deducible y generalmente la tasa de rendimiento ya va neta de esas condiciones.
+
+### Si una plataforma me retiene impuestos, es necesario que me emita un comprobante?
+
+No. Si hace todo de manera correcta, nos debería aparecer automáticamente en el SAT.
+
+### Si reinvierto dinero, ¿los intereses que haya generado ahora se consideran capital para efectos de impuestos?
+
+Sí.
+
+### ¿Es mejor invertir como personal moral o como persona física?
+
+Es indiferente.
+
+### ¿Tengo que hacer facturas por los rendimientos que genere?
+
+Cuando vienen del sistema financiero, no. En el sistema no financiero es diferente.
+
+### Impuestos sobre la bolsa de valores
+
+La bolsa de valores te retiene el 10% sobre la ganancia de capital y esto ya es definitivo. Solo vas a pagar el 10% de lo que ganes en la bolsa sin importar tus ingresos.
+
+### Impuestos al invertir en el extranjero
+
+Hay que diferenciar cuando invertimos en México y cuando invertimos en el extrajero.
+
+La ley hace una diferencia de acuerdo al país del que proviene el dinero.
+
+Los impuestos se pagan en el país donde generas el interés.
+
+### Tratados para evitar la doble tributación
+
+En el tratado hay una serie de artículos donde cada uno tiene un tema en específico. Entonces, si tus intereses los obtuviste en EEUU, gracias a este tratado puedes evitar estar pagando impuestos en ambos países.
+
+### Inversiones en EEUU
+
+Tus impuestos los pagas allá, no es necesario que los reportes en tu país.
+
+PERO, si la plataforma donde invertiste dice que no se mete en tema de impuestos, tal vez no te retiene. En dicho caso, esos impuestos debes pagarlos en México.
+
+Firstrade y Schwab son ejemplos de este caso.
+
+### Si yo fondeo mi cuenta con un broker de EEUU, ¿eso lo tengo que declarar?
+
+No es necesario si solo mandas el dinero y no tienes un ingreso.
+
+### Impuestos en FIBRAS
+
+Puedes evitar pagar impuestos.
+
+### Sistema no financiero
+
+***Este tema es muy largo y amplio y extenso, recomiendo leer esta sección entera para comprendenrla a profundidad*** y no puedo hacer un resumen pues viene siendo un copy-paste entero.
+
+**Interés devengado**: Quiere decir que ya se generó.
+
+### Conclusión de impuestos
+
+Conlleva mucho trabajo intentar hacer las declaraciones por cuenta propia, es algo que se puede hacer muy complejo. Mi recomendación es que contrates a un contador para que lo haga por ti y te evites tanto trabajo adicional.
+
+Recursos adicionales para complementar información:
+
+- [Entrevista con un contador fiscal; Sistema Financiero](https://omareducacionfinanciera.com/impuestos-inversiones-mexico/)
+- [Entrevista con un contador fiscal; Sistema no financiero](https://omareducacionfinanciera.com/impuestos-inversiones-mexico-2/)
+- [Sitio web del SAT](https://www.sat.gob.mx/)
+
+### Estrategias fiscales para pagar menos impuestos
+
+- Aprovechar los beneficios fiscales de las SOFIPOS: Mientras inviertas menos de 5 UMAs o alrededor de $158,000MXN en 2020, tus rendimientos están exentos de impuestos.
+- Invertir en la bolsa de valores: Puedes tener acciones por 50 años y aunque tu inversión inicial se haya multiplicado 100 veces no debes pagar impuestos mientras no vendas. Una vez que decidas vender, tan solo debes pagar 10% de lo que ganes en impuestos.
+- Aprovechar el beneficio fiscal de las FIBRAS: Las ganancias de capital en las FIBRAS están exentas de impuestos. Ten en cuenta que por las utilidades que recibas, ahí sí vas a pagar un impuesto del 30%.
+- Contribuir a un plan personal para el retiro: Lo que contribuyas a este tipo de planes lo puedes deducir de impuestos, lo malo es que las comisiones que manejan son muy elevadas.
+- Deducir las pérdidas que tengas de las ganancias
+- Deducir los gastos que la ley te permite: Gastos médicos, aportaciones a seguro de vida, seguro de gastos médicos mayores, gastos dentales, gastos funerarios, colegiatura de tus hijos, intereses de un préstamo hipotecario, etc.
+- Autoemplearse o empezar un negocio
+- Donaciones
+
+### Conclusión para reducir impuestos
+
+Existen muchas maneras de reducir los impuestos que pagas por tus inversiones y por tus ingresos en general, solo es cuestión de que te pongas creativo. Para esto te recomiendo acercarte con un contador.
