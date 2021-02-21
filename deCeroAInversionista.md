@@ -1625,3 +1625,60 @@ Recursos adicionales para complementar información:
 ### Conclusión para reducir impuestos
 
 Existen muchas maneras de reducir los impuestos que pagas por tus inversiones y por tus ingresos en general, solo es cuestión de que te pongas creativo. Para esto te recomiendo acercarte con un contador.
+
+## Epílogo: La mejor inversión que existe
+
+No hay mejor inversión que te dé mayores rendimientos que la que haces en ti mismo. Eres tu mayor activo y por eso te doy recomendaciones para que puedas aprovechar al máximo tu potencial:
+
+1. Aprende inglés
+2. Sé un devorador de contenido: Debes dedicar todo el tiempo que puedas a consumir contenido que te permita desarrollar habilidades que puedas aplicar de manera inmediata para generar ingresos adicionales. Mínimo 2 horas diarias.
+3. Combatir al peor enemigo: Tú mismo; Si te la pasas quejándote y criticando a los demás, le tienes envidia a otras personas que son exitosas y solo te pasas pensando cosas negativas, déjame decirte que **lo que piensas es lo que atraes en tu vida.** Por otro lado, si tienes una mentalidad positiva y de riqueza, entonces es lo que vas a atraer a tu vida. Dedica todo el tiempo que sea necesario a buscar contenido de *desarrollo personal*.
+
+### Plataformas donde puedes buscar información gratuita
+
+- Google
+- Reddit
+- YouTube
+- Podcast
+
+### Cursos
+
+Te ayudan a acelerar tu curva de aprendizaje para que adquieras habilidades de manera más rápida a que si estudiaras por tu cuenta.
+
+### Generar ingresos adicionales
+
+La primera opción es conseguir un trabajo. Busca dar resultados excepcionales para tener un mejor sueldo, si no es posible, busca otro lugar donde trabajar. Incluso puedes conseguir un segundo trabajo, no importa que te paguen menos.
+
+Otra alternativa es ofrecer tus servicios como freelancer en sitios como [Fiverr](https://fiverr.com) para obtener más ingresos con tus habilidades. Aquí puedes fácilmente ganar mucho más dinero que lo que obtendrías en cualquier empleo promedio en México y lo mejor es que lo puedes hacer desde tu casa en tu tiempo libre sin dejar tu trabajo de tiempo completo.
+
+[Videotutorial para invertir en ti mismo](https://omareducacionfinanciera.com/mejor-inversion-2020/)
+
+### Recomendaciones de libros
+
+- Padre Rico Padre Pobre - Robert Kiyosaki
+- El hombre más rico de Babilonia - George Classon
+- La tranformación total de su dinero - Dave Ramsey
+- El cuadrante del flujo del dinero - Robert Kiyosaki
+- The simple path to wealth - J.L. Collins
+- El inversor inteligente - Benjamin Graham
+
+[Videotutorial de los libros que tuvieron un gran impacto en mi vida](https://omareducacionfinanciera.com/libros-de-finanzas)
+
+### Comentarios finales
+
+Si aplicas los conocimientos que acabas de adquirir puedes darle un gran cambio a tu vida y a la de tus descendientes, incluso puedes compartir este libro con personas que realmente aprecias. Mis últimas recomendaciones son las siguientes:
+
+- Toma acción. No me voy a cansar de decirlo, ***de nada sirve que consumas todo el contenido del mundo si no haces algo***, necesitas comenzar a poner en prácticar todo lo que acabas de aprender. Este libro siempre va a estar a tu lado para apoyarte cuando requieras consultar información, no debes aprendértelo de memoria.
+- Nunca dejes de aprender. Mientras más aprendes sobre inversiones vas a poder tomar riesgos calculados que te van a permitir obtener mayores rendimientos lo cual va a multiplicar tu patrimonio aún más en el largo plazo.
+
+Me puedes encontrar en mis redes sociales:
+
+- [Youtube](https://www.youtube.com/channel/UCdNnEDbRWhanA1O8zhCn3ZA)
+- [Facebook](https://www.facebook.com/OmarEducacionFinanciera/)
+- [Instagram](https://www.instagram.com/omareducacionfinanciera/)
+- [TikTok](https://vm.tiktok.com/tsUD8E/)
+- [Sitio web](https://omareducacionfinanciera.com/blog)
+- Correo electrónico : contacto@omareducacionfinanciera.com
+- [Grupo privado de Facebook con miles de inversionistas](https://omareducacionfinanciera.com/facebook)
+- [Enlaces dea afiliado para que te regalen dinero al invertir y me apoyes](https://omareducacionfinanciera.com/enlaces-de-afiliado)
+- [Programa una mentoría con Omar](https://omareducacionfinanciera.com/mentorias)
