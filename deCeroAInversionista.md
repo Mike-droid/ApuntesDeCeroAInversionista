@@ -1353,3 +1353,75 @@ Consejos para obtener los mejores resultados:
 - **Nunca** vendas tus activos antes de tiempo. Mientras no vendas, no pagas impuestos, no importa que tengas tus acciones por 40 años. Por eso es *sumamente importante no vender hasta que ya te vayas a retirar*.
 - Trata de mantener por lo menos el 60% de tu portafolio en acciones, de lo contrario el rendimiento va a ser muy bajo y tu dinero te va a durar menos tiempo.
 - Realiza aportaciones mensuales a tu portafolio. Yo te recomendaría por lo menos el 15% de tus ingresos para tu retiro.
+
+## Estafas comunes e inversiones de alto riesgo
+
+### Esquema Ponzi o Piramidal
+
+El funcionamiento es muy sencillo, alguien comienza arriba de la pirámide y convence a una o más personas de invertir en un sistema a cambio de atractivos rendimientos.
+
+Ejemplos concretos en México son la flor de la abundancia, el telar de la abundancia o incluso empresas que estaban reguladas como FICREA que se disfrazaba como SOFIPO y el dueño se terminó escapando con el dinero.
+
+¿Cómo puedo evitar caer en una estafa piramidal?
+
+- Ofrecen rendimientos MUY elevados comparados con los instrumentos financieros tradicionales que ya vimos. Si alguien te ofrece más de 25% al año, yo ya me empezaría a preocupar y si en algún momento te dicen que debes reclutar personas, convencer a familiares y amigos para que también "inviertan", es también una mala señal porque sirve para alimentar a la pirámide.
+- Puede haber casos donde te van a querer engañar ofreciendo algún producto o servicio que se ve misterioso y debes comprar. Si no te pueden explicar a detalle con fundamentos financieros de dónde salen las ganancias y cómo funciona el modelo de negocios, entonces es una estafa.
+- Usualmente este tipo de empresas se ven extrañas, son muy pequeñas, no hay mucha información sobre ellas y son dirigidas por una persona física o una organización que ni instalaciones tiene o son muy precarias, te pueden decir que sus oficinas están en el extranjero.
+- Revisa si la organización se encuentra regulada o se encuentra en proceso de estarlo por la CNBV o IPAB o CONDUSEF.
+
+Ejemplos de instituciones regulatorias en México:
+
+- [- Comisión Nacial para la Protección y Defensa de los Usuarios de Servicios Financieros (CONDUSEF)](https://www.gob.mx/condusef)
+- [Banco de México (BANXICO)](https://www.banxico.org.mx/)
+- [Secretaría de Hacienda y Crédito Público (SHCP)](https://www.gob.mx/shcp)
+- [Comisión Nacional Bancaria y de Valores (CNBV)](https://www.gob.mx/cnbv)
+- [Comisión Nacional de Seguros y Finanzas(CNSF)](https://www.gob.mx/cnsf)
+- [Comisión Nacional del Sistema de Ahorro para el Retiro (CONSAR)](https://www.gob.mx/consar)
+- [Instituto de Protección al Ahorro Bancario (IPAB)](https://www.gob.mx/ipab)
+- [Fondo de Protección de Sociedades Financieras Populares y de Protección a sus Ahorradores (PROSOFIPO)](http://www.prosofipo.mx/)
+- [Servicio de Administración Tributaria (SAT)](https://www.sat.gob.mx/)
+- [Banco Nacional de Ahorros y Servicios Financieros (BANSEFI)](http://www.bansefi.gob.mx/)
+
+### FOREX
+
+Esto es el mercado de divisas. Si bien hay estafas con el esquema Ponzi que se disfrazan con servicios de FOREX, no todo es estafa, el problema es que, aunque lo hicieras por medio de un broker donde todo es legal y en realidad sí inviertes en divisas, es muy probable que termines perdiendo tu dinero. La estadística dice que alrededor del 96% de las personas que invierten en FOREX terminan perdiendo dinero, esto es debido a los apalancamientos que manejan. Puedes invertir 200:1.
+
+A esto se le llama **"margin trading"**, es decir, si mantienes un monto mínimo, por cada dólar que inviertes te prestan $200 para multiplicar tus ganancias por 200, pero también tus perdidas se van a multiplicar por 200.
+
+FOREX no está regulado por ninguna institución en México. No es una estafa, pero sí lleva un alto riesgo que no vale la pena correr.
+
+### CFD's
+
+Contrato por diferencia (en español), operan bajo "margin" para comprar acciones, ETF's y otros instrumentos que se ofrecen en la bolsa de valores.
+
+Esto genera un riesgo muy elevado para el inversionista, algunos brokers manejan CFD's como Etoro o Plus500 donde ofrecena apalancamientos de 1:300.
+
+La estadística dice que entre 75% y 90% de las personas que operan bajo este instrumento financiero, también terminan perdiendo su dinero, de hecho ni siquiera es legal en muchos países como por ejemplo Estados Unidos.
+
+Además las comisiones son extremadamente altas. Si bien CFD no es una estada y lo puedes usar sin apalancamiento, no vale la pena.
+
+### Opciones Binarias
+
+Otra *inversión de alto riesgo* son las opciones binarias. Esto es literal apostar a que va a subir o bajar el precio de un activo en el corto plazo, generalmente pueden ser minutos u horas.
+
+Para hacerlo, el broker te va a cobrar una comisión. Si aciertas, puedes ganar alrededor del 75% de lo que inviertes y si fallas pierdes el 100% de tu inversión. En la mayoría de los países no se encuentran reguladas y en Estados Unidos es prácticamente imposible invertir en ellas ya que están prohibidas por su alto riesgo.
+
+### Penny Stocks
+
+Son acciones que se venden a un precio menor de $5USD. Cualquier acción cuyo precio sea menor a $1USD es para que tengas mucho cuidado.
+
+hay mucha incertidumbre e incluso puedes ser víctima de una estafa. De hecho es exactamente lo que hacen en la película de "El lobo de Wallstreet", estafan a inversionistas ofreciéndoles penny stocks para robasrse su dinero.
+
+### Day Trading
+
+Esto quiere decir comprar acciones o ETF's esperando que suban de valor en un plazo de tiempo muy corto, usualmente en un mismo día, por esta razón, es como una apuesta.
+
+No digo que no sea posible hacer dinero de esta manera, pero las probabilidades están en tu contra. La estadística dice que alrededor del 90% de las personas que hacen day trading terminan perdiendo su dinero, mejor no lo hagas.
+
+### Nunca inviertas en algo que no conoces
+
+Este es **el error más peligroso de todos**. Si a alguien le ha funcionado bien invertir en un instrumento donde obtuvo buenos rendimientos, no necesariamente quiere decir que tú también vas a lograr los mismos resultados.
+
+Antes de invertir en cualquier instrumento financiero **asegúrate de investigar a detalle el tipo de inversión**.
+
+[Videotutorial para no caer en estafas](https://omareducacionfinanciera.com/estafas-comunes)
